@@ -1,0 +1,61 @@
+name: Publish queued posts
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 min (GitHub may run a few minutes late)
+  workflow_dispatch:          # "Run workflow" button for testing
+    inputs:
+      dry_run:
+        description: "Dry run (log only, post nothing)"
+        type: boolean
+        default: false
+  push:
+    paths: ["queue/**"]       # also run right after new posts are added
+
+concurrency:
+  group: publisher
+  cancel-in-progress: false   # never run two publishers at once
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Publish due posts
+        id: publish
+        continue-on-error: true
+        env:
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL }}
+          GRAPH_VERSION: ${{ vars.GRAPH_VERSION }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
+        run: python publisher/publish.py
+
+      - name: Save results (move posted/failed files)
+        run: |
+          git config user.name "pfg-autoposter"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A queue posted failed
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish run $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Flag failures (GitHub emails you)
+        if: steps.publish.outcome == 'failure'
+        run: |
+          echo "::error::One or more posts failed. See failed/ folder for details."
+          exit 1

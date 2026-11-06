@@ -1,0 +1,14 @@
+{
+  "_readme": "Every video/photo you drop into media/ gets a row here. Claude uses this to pick content for the weekly batch and never repeats one too soon.",
+  "items": [
+    {
+      "file": "reels/half-kneeling-hip-turn.mp4",
+      "exercise": "Half-Kneeling Hip Turn",
+      "focus_tags": ["Rotation", "Mobility"],
+      "difficulty": "Beginner",
+      "equipment": "None",
+      "program": "6-Week Golf On-Ramp",
+      "last_posted": null
+    }
+  ]
+}

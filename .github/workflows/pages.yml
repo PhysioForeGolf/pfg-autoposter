@@ -1,0 +1,34 @@
+name: Host media publicly (GitHub Pages)
+
+# Instagram and Facebook download media from a public URL.
+# This publishes the media/ folder to https://<you>.github.io/<repo>/
+
+on:
+  push:
+    branches: [main]
+    paths: ["media/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: media
+      - id: deployment
+        uses: actions/deploy-pages@v4
