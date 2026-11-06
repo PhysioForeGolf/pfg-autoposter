@@ -208,8 +208,8 @@ def run():
         missing = [k for k, v in {"META_PAGE_TOKEN": TOKEN, "FB_PAGE_ID": FB_PAGE_ID,
                                    "IG_USER_ID": IG_USER_ID}.items() if not v]
         if missing:
-            log(f"Missing secrets: {', '.join(missing)}. Nothing published.")
-            return 1
+            log(f"Not set up yet (missing: {', '.join(missing)}). Nothing published.")
+            return 0  # not an error until setup is finished
 
     now = datetime.now(timezone.utc)
     files = sorted(QUEUE.glob("*.json"))

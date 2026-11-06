@@ -59,7 +59,7 @@ Supported post types: **image**, **reel** (IG Reel + FB video), **carousel** (2�
 
 ### Part 4 — Test (5 min)
 1. **Actions → Weekly token health check → Run workflow.** Green ✓ with your Page name and IG username = connected.
-2. Upload one real video to `media/reels/`, edit the sample post in `queue/` to point to it, set `publish_at` a few minutes from now.
+2. Upload one real video to `media/reels/`, copy `examples/sample-reel-post.json` into `queue/`, point it at your video, and set `publish_at` a few minutes from now.
 3. **Actions → Publish queued posts → Run workflow** with **Dry run** checked → confirm it says "would post".
 4. Run it again without dry run → check Instagram and Facebook.
 
