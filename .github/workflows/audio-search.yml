@@ -1,0 +1,34 @@
+name: Find Instagram music
+
+on:
+  workflow_dispatch:
+    inputs:
+      query:
+        description: "Search words (leave empty for trending)"
+        required: false
+        default: ""
+  schedule:
+    - cron: "0 17 * * 0"   # Sundays, before the weekly post plan
+
+permissions:
+  contents: write
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - env:
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          GRAPH_VERSION: ${{ vars.GRAPH_VERSION }}
+        run: python publisher/audio_search.py ${{ inputs.query }}
+      - run: |
+          git config user.name "pfg-autoposter"
+          git config user.email "actions@users.noreply.github.com"
+          git add audio
+          git diff --cached --quiet || (git commit -m "Music search results" && git pull --rebase && git push)

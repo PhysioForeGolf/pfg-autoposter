@@ -133,12 +133,15 @@ def ig_wait_until_ready(container_id, timeout=300):
     raise PostError("Instagram media processing timed out")
 
 
-def ig_container(url, kind, caption=None, child=False):
+def ig_container(url, kind, caption=None, child=False, audio=None):
     params = {}
     if kind == "video":
         params.update(media_type="REELS" if not child else "VIDEO", video_url=url)
         if not child:
             params["share_to_feed"] = "true"
+            if audio:  # Instagram library music via the Instagram Audio API
+                params["audio_configuration"] = json.dumps({k: v for k, v in audio.items()
+                                                            if k in ("audio_id", "audio_volume", "video_volume")})
     else:
         params["image_url"] = url
     if child:
@@ -160,7 +163,7 @@ def publish_instagram(post):
     if post["type"] == "image":
         cid = ig_container(media_url(post["media"]), "image", caption)
     elif post["type"] == "reel":
-        cid = ig_container(media_url(post["media"]), "video", caption)
+        cid = ig_container(media_url(post["media"]), "video", caption, audio=post.get("audio"))
     else:  # carousel
         children = [ig_container(media_url(m), "video" if is_video(m) else "image", child=True)
                     for m in post["media"]]
