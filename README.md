@@ -92,3 +92,9 @@ Supported post types: **image**, **reel** (IG Reel + FB video), **carousel** (2�
 - GitHub emails you. Open `failed/<post>.json` → the `results` section shows the error.
 - Fix it and move the file back into `queue/`. Platforms that already succeeded are skipped, so nothing double-posts.
 - Health check fails on a Sunday → token stopped working (usually a Facebook password change). Repeat Part 2, steps 3–6, and update the `META_PAGE_TOKEN` secret.
+
+## Video library (`library/`)
+
+All 218 PFG exercise videos as clean Reel masters: logo intro/outro trimmed, square crop that follows the athlete, H.264.
+`library/index.json` lists each clip with its exercise name, coaching notes and when it was last posted.
+Finished posts are rendered from these with `tools/post_reel.py` (hook, coaching cues, colour per topic, PFG logo end card) and saved to `media/<week>/`.

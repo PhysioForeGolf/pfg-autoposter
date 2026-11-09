@@ -1,0 +1,2791 @@
+{
+ "_readme": "Clean 9:16-ready Reel masters (square, logo intro/outro trimmed). Render posts with tools/post_reel.py. Update last_posted when a clip is used.",
+ "clips": [
+  {
+   "file": "1-2-kneeling-banded-rotation.mp4",
+   "exercise": "1/2 Kneeling Banded Rotation",
+   "equipment": "Resistance Band",
+   "coaching": {
+    "purpose": "Train controlled trunk rotation with pelvic stability for better sequencing.",
+    "feel": "Pelvis level; rotate through mid-back; eyes forward; smooth breath.",
+    "avoid": "Leaning, twisting from low back, arms leading."
+   },
+   "youtube": "https://www.youtube.com/watch?v=cltWGU1L3XI",
+   "times_used_2025_26": 23,
+   "last_posted": null
+  },
+  {
+   "file": "1-2-kneeling-banded-row.mp4",
+   "exercise": "1/2 Kneeling Banded Row",
+   "equipment": "Resistance Band",
+   "coaching": {
+    "purpose": "Strengthen scap retractors while stabilizing trunk to improve address posture.",
+    "feel": "Tall torso; glute of down knee on; elbow to ribs without torso twist.",
+    "avoid": "Shrugging, craning neck, yanking with biceps."
+   },
+   "youtube": "https://www.youtube.com/watch?v=pV8lAon7mx8",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "1-2-kneeling-landmine-press.mp4",
+   "exercise": "1/2 Kneeling Landmine Press",
+   "equipment": "Landmine",
+   "coaching": {
+    "purpose": "Unilateral press with core stiffness for posture.",
+    "feel": "Glute of down knee on; press up/out; ribs down.",
+    "avoid": "Lean back, rib flare, shrugging."
+   },
+   "youtube": "https://www.youtube.com/watch?v=PPp_bvsw9Ws",
+   "times_used_2025_26": 9,
+   "last_posted": null
+  },
+  {
+   "file": "banded-backswing.mp4",
+   "exercise": "Banded Backswing",
+   "equipment": "Resistance Band",
+   "coaching": {
+    "purpose": "Groove trail-side loading and backswing sequencing to hit a consistent top position.",
+    "feel": "Trail hip loads; scap packed; smooth band tension.",
+    "avoid": "Arm-only pull, swaying off the ball, rib flare."
+   },
+   "youtube": "https://www.youtube.com/watch?v=rmZFRBoorO0",
+   "times_used_2025_26": 38,
+   "last_posted": null
+  },
+  {
+   "file": "banded-good-morning.mp4",
+   "exercise": "Banded Good Morning",
+   "equipment": "Resistance Band",
+   "coaching": {
+    "purpose": "Build hinge strength to maintain posture and create ground force.",
+    "feel": "Soft knees; hips back; long neutral spine; even foot pressure.",
+    "avoid": "Rounding back, hyperextending neck, knees caving."
+   },
+   "youtube": "https://www.youtube.com/watch?v=oPv4Y8eFO4g",
+   "times_used_2025_26": 28,
+   "last_posted": null
+  },
+  {
+   "file": "banded-step-&-punch.mp4",
+   "exercise": "Banded Step & Punch",
+   "equipment": "Resistance Band",
+   "coaching": {
+    "purpose": "Link weight shift to upper-body strike to transfer force up the chain.",
+    "feel": "Step then punch opposite hand; ribs down; crisp tempo.",
+    "avoid": "Knee collapse, elbow flare, rotating from lumbar."
+   },
+   "youtube": "https://www.youtube.com/watch?v=L9nWrFccyU8",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-back-squat.mp4",
+   "exercise": "Barbell Back Squat",
+   "equipment": "Barbell",
+   "coaching": {
+    "purpose": "Lower-body force foundation for powerful rotation and posting.",
+    "feel": "Brace, sit between hips, drive evenly through feet.",
+    "avoid": "Heels lift, knees cave, chest collapse."
+   },
+   "youtube": "https://www.youtube.com/watch?v=cQo0Sh8ANSE",
+   "times_used_2025_26": 8,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-bent-over-row.mp4",
+   "exercise": "Barbell Bent Over Row",
+   "equipment": "Barbell",
+   "coaching": {
+    "purpose": "Posterior chain + upper-back strength for posture control.",
+    "feel": "Firm hinge; row to lower ribs; pause squeeze.",
+    "avoid": "Rounding back, torso jerk, shrugging."
+   },
+   "youtube": "https://www.youtube.com/watch?v=PIrojAgkZTM",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-deadlift.mp4",
+   "exercise": "Barbell Deadlift",
+   "equipment": "Barbell",
+   "coaching": {
+    "purpose": "Hinge strength to build ground force safely.",
+    "feel": "Bar close; lats packed; push floor away.",
+    "avoid": "Yank with back, bar drifts, toes rock."
+   },
+   "youtube": "https://www.youtube.com/watch?v=2qyE6sQcgSY",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-front-squat.mp4",
+   "exercise": "Barbell Front Squat",
+   "equipment": "Barbell",
+   "coaching": {
+    "purpose": "Quad/upper-back strength to keep tall posture under load.",
+    "feel": "Elbows high; ribs down; knees track.",
+    "avoid": "Elbows drop, heels up, chest collapse."
+   },
+   "youtube": "https://www.youtube.com/watch?v=9PoJeBb5bkE",
+   "times_used_2025_26": 9,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-hang-clean-high-pull.mp4",
+   "exercise": "Barbell Hang Clean High Pull",
+   "equipment": "Barbell",
+   "coaching": {
+    "purpose": "Hip power with tall finish\u2014speed builder.",
+    "feel": "Snap hips; elbows high/out; bar close.",
+    "avoid": "Early arm pull, looping bar, rounded back."
+   },
+   "youtube": "https://www.youtube.com/watch?v=o8uvgEeIO_U",
+   "times_used_2025_26": 6,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-hang-clean.mp4",
+   "exercise": "Barbell Hang Clean",
+   "equipment": "Barbell",
+   "coaching": {
+    "purpose": "Explosive hip drive with precise rack catch.",
+    "feel": "Extend tall; fast elbows to rack.",
+    "avoid": "Arm pull early, crashing catch, soft rack."
+   },
+   "youtube": "https://www.youtube.com/watch?v=eDqQFtiUTME",
+   "times_used_2025_26": 5,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-oh-press.mp4",
+   "exercise": "Barbell OH Press",
+   "equipment": "Barbell",
+   "coaching": {
+    "purpose": "Pure overhead strength for shoulder resilience.",
+    "feel": "Glutes on; ribs stacked; bar over mid-foot.",
+    "avoid": "Over-arch, bent wrists, shrugging."
+   },
+   "youtube": "https://www.youtube.com/watch?v=OtgPStxS3qQ",
+   "times_used_2025_26": 9,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-overhead-squat.mp4",
+   "exercise": "Barbell Overhead Squat",
+   "equipment": "Barbell",
+   "coaching": {
+    "purpose": "Mobility + stability under load to maintain posture.",
+    "feel": "Wide grip; locked shoulders; sit between hips.",
+    "avoid": "Heels up, bar drift, soft elbows."
+   },
+   "youtube": "https://www.youtube.com/watch?v=T4jXXVME_ew",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-power-clean.mp4",
+   "exercise": "Barbell Power Clean",
+   "equipment": "Barbell",
+   "coaching": {
+    "purpose": "High-velocity hip extension for speed.",
+    "feel": "Violent leg drive; quick elbows; solid rack.",
+    "avoid": "Arms dominate, jump forward, soft catch."
+   },
+   "youtube": "https://www.youtube.com/watch?v=MesDnba0mHY",
+   "times_used_2025_26": 5,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-power-snatch.mp4",
+   "exercise": "Barbell Power Snatch",
+   "equipment": "Barbell",
+   "coaching": {
+    "purpose": "Explosive full-body speed and overhead stability.",
+    "feel": "Extend tall; punch to locked overhead; bar close.",
+    "avoid": "Looping bar, soft catch, early arm pull."
+   },
+   "youtube": "https://www.youtube.com/watch?v=pLteW0ZUTbw",
+   "times_used_2025_26": 4,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-push-press.mp4",
+   "exercise": "Barbell Push Press",
+   "equipment": "Barbell",
+   "coaching": {
+    "purpose": "Leg-driven overhead strength.",
+    "feel": "Vertical dip/drive; straight bar path; tight lockout.",
+    "avoid": "Forward dip, pressing without legs, rib flare."
+   },
+   "youtube": "https://www.youtube.com/watch?v=dwG2zY4pDCY",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-rdl.mp4",
+   "exercise": "Barbell RDL",
+   "equipment": "Barbell",
+   "coaching": {
+    "purpose": "Posterior-chain strength with controlled hinge.",
+    "feel": "Bar grazes thighs; shins near vertical; lats on.",
+    "avoid": "Reach forward, rounding, rush reps."
+   },
+   "youtube": "https://www.youtube.com/watch?v=-i7BFI2r-hs",
+   "times_used_2025_26": 9,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-reverse-lunge.mp4",
+   "exercise": "Barbell Reverse Lunge",
+   "equipment": "Barbell",
+   "coaching": {
+    "purpose": "Unilateral leg strength with trunk stability.",
+    "feel": "Step back; drop vertical; front knee tracks.",
+    "avoid": "Torso fold, knee cave, slam back knee."
+   },
+   "youtube": "https://www.youtube.com/watch?v=ybBNuBQmBfQ",
+   "times_used_2025_26": 7,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-sl-rdl.mp4",
+   "exercise": "Barbell Sl Rdl",
+   "equipment": null,
+   "coaching": null,
+   "youtube": null,
+   "times_used_2025_26": null,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-split-jerk.mp4",
+   "exercise": "Barbell Split Jerk",
+   "equipment": null,
+   "coaching": null,
+   "youtube": null,
+   "times_used_2025_26": null,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-sumo-deadlift-high-pull.mp4",
+   "exercise": "Barbell Sumo Deadlift High Pull",
+   "equipment": null,
+   "coaching": null,
+   "youtube": null,
+   "times_used_2025_26": null,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-sumo-deadlift.mp4",
+   "exercise": "Barbell Sumo Deadlift",
+   "equipment": null,
+   "coaching": null,
+   "youtube": null,
+   "times_used_2025_26": null,
+   "last_posted": null
+  },
+  {
+   "file": "barbell-thruster.mp4",
+   "exercise": "Barbell Thruster",
+   "equipment": null,
+   "coaching": null,
+   "youtube": null,
+   "times_used_2025_26": null,
+   "last_posted": null
+  },
+  {
+   "file": "bw-180-degree-rotational-jump.mp4",
+   "exercise": "BW 180 Degree Rotational Jump",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Explosive rotation & landing control.",
+    "feel": "Load, jump, turn; spot landing; stick softly.",
+    "avoid": "Twisting knees, uncontrolled spin, loud landings."
+   },
+   "youtube": "https://www.youtube.com/watch?v=lCFV5btE9h4",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-3-way-hip-opener.mp4",
+   "exercise": "BW 3 Way Hip Opener",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Global hip mobility to prep for rotation.",
+    "feel": "Move through three angles; calm breaths.",
+    "avoid": "Forced range, lumbar shift, rushing."
+   },
+   "youtube": "https://www.youtube.com/watch?v=YFkJh-oCQKw",
+   "times_used_2025_26": 78,
+   "last_posted": "2026-11-13"
+  },
+  {
+   "file": "bw-adductor-rock.mp4",
+   "exercise": "BW Adductor Rock",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Adductor mobility for lateral shifts.",
+    "feel": "One knee out; hips back with long spine.",
+    "avoid": "Lumbar flex, knee pain, bouncing."
+   },
+   "youtube": "https://www.youtube.com/watch?v=K6GsqQwVozc",
+   "times_used_2025_26": 14,
+   "last_posted": null
+  },
+  {
+   "file": "bw-alt-rdl-w-torso-rotation.mp4",
+   "exercise": "BW Alt RDL w/Torso Rotation",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Hinge + rotation control.",
+    "feel": "Hips square; rotate ribs; even feet.",
+    "avoid": "Lumbar twist, reaching arms, knee cave."
+   },
+   "youtube": "https://www.youtube.com/watch?v=OEn2CN_GrsM",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-behind-the-neck-press.mp4",
+   "exercise": "BW Behind the Neck Press",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Shoulder control through range (pain-free ROM).",
+    "feel": "Light tension; ribs down; steady path.",
+    "avoid": "Neck jam, low-back arch, forcing depth."
+   },
+   "youtube": "https://www.youtube.com/watch?v=uloOf8eFSLI",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-bird-dog.mp4",
+   "exercise": "BW Bird Dog",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Spine control and cross-body coordination.",
+    "feel": "Brace; reach long; hips level; slow breath.",
+    "avoid": "Tilted pelvis, overreach, neck crane."
+   },
+   "youtube": "https://www.youtube.com/watch?v=S5RoaHHHgaU",
+   "times_used_2025_26": 53,
+   "last_posted": null
+  },
+  {
+   "file": "bw-bosu-high-plank.mp4",
+   "exercise": "BW BOSU High Plank",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Core endurance + shoulder stability.",
+    "feel": "Long line; hands under shoulders; slow breath.",
+    "avoid": "Sag/pike, shrugging, breath hold."
+   },
+   "youtube": "https://www.youtube.com/watch?v=LhsetT-YUK4",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-bosu-lateral-lunge.mp4",
+   "exercise": "BW BOSU Lateral Lunge",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Frontal-plane strength with balance demand.",
+    "feel": "Sit into hip; trail leg long; chest tall.",
+    "avoid": "Toe collapse, shallow depth, spine flex."
+   },
+   "youtube": "https://www.youtube.com/watch?v=umnw2K0YuQw",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-bosu-plyo-chest-press.mp4",
+   "exercise": "BW BOSU Plyo Chest Press",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Upper-body reactivity and power.",
+    "feel": "Explode up; catch soft; maintain plank.",
+    "avoid": "Crash landings, elbows flare, head forward."
+   },
+   "youtube": "https://www.youtube.com/watch?v=SbMZjfAFD2w",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-bosu-push-up.mp4",
+   "exercise": "BW BOSU Push Up",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Pressing strength + shoulder stability.",
+    "feel": "Wrists stacked; chest to BOSU; strong lockout.",
+    "avoid": "Elbows flare, sagging core, bouncing."
+   },
+   "youtube": "https://www.youtube.com/watch?v=wLnDVGHoJjA",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-bosu-renegade-row.mp4",
+   "exercise": "BW BOSU Renegade Row",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Anti-rotation core + scap control on unstable base.",
+    "feel": "Wide feet; quiet hips; row to ribs.",
+    "avoid": "Hip twist, shrugging, shallow support."
+   },
+   "youtube": "https://www.youtube.com/watch?v=EQEvK9vHD78",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-bosu-skater-hops.mp4",
+   "exercise": "BW BOSU Skater Hops",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Lateral elasticity and balance.",
+    "feel": "Quiet feet; stick then go; hips level.",
+    "avoid": "Wobbly knee, loud landings, torso tilt."
+   },
+   "youtube": "https://www.youtube.com/watch?v=GRr5jLNgysM",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-bosu-sprinter-lunges.mp4",
+   "exercise": "BW BOSU Sprinter Lunges",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Single-leg control and rhythm.",
+    "feel": "Light foot; quick but balanced exchanges.",
+    "avoid": "Pounding, knee inside big toe, torso whip."
+   },
+   "youtube": "https://www.youtube.com/watch?v=fEz0vcefKgc",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-bosu-squats.mp4",
+   "exercise": "BW BOSU Squats",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Balance + leg endurance under instability.",
+    "feel": "Soft ankles; sit between hips; tall torso.",
+    "avoid": "Knees cave, bouncing, eyes down."
+   },
+   "youtube": "https://www.youtube.com/watch?v=f7y05uGI7x8",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-bosu-windmill-plank.mp4",
+   "exercise": "BW BOSU Windmill Plank",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Core/shoulder stability with rotation on unstable base.",
+    "feel": "Stack shoulder; slow controlled open/close.",
+    "avoid": "Dropping hips, shrugging, fast spins."
+   },
+   "youtube": "https://www.youtube.com/watch?v=hvoHpL-fUzo",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-broad-jump.mp4",
+   "exercise": "BW Broad Jump",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Horizontal power for ground-force production.",
+    "feel": "Load hips; swing; jump far; stick soft.",
+    "avoid": "Stiff landing, knees cave, over-rotate."
+   },
+   "youtube": "https://www.youtube.com/watch?v=_lqpHEZTSRs",
+   "times_used_2025_26": 30,
+   "last_posted": null
+  },
+  {
+   "file": "bw-bulgarian-split-squat.mp4",
+   "exercise": "BW Bulgarian Split Squat",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Unilateral leg strength and hip control.",
+    "feel": "Tall; drop straight down; knee tracks; full foot.",
+    "avoid": "Torso fold, knee cave, bounce bottom."
+   },
+   "youtube": "https://www.youtube.com/watch?v=RA8Ulueydzc",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-burpees.mp4",
+   "exercise": "BW Burpees",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Full-body conditioning; late-round stamina.",
+    "feel": "Crisp drop \u2192 firm plank \u2192 spring up.",
+    "avoid": "Sagging core, sloppy landings, shallow push-ups."
+   },
+   "youtube": "https://www.youtube.com/watch?v=ZfSQhY-t6q4",
+   "times_used_2025_26": 61,
+   "last_posted": null
+  },
+  {
+   "file": "bw-calf-raise-wclub.mp4",
+   "exercise": "BW Calf Raise wClub",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Ankle strength/stiffness for pressure shift.",
+    "feel": "Big-toe/ball pressure; full rise & pause.",
+    "avoid": "Rocking outward, bouncing reps."
+   },
+   "youtube": "https://www.youtube.com/watch?v=Mf8cKeJFSAY",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-cervical-flexion-extension.mp4",
+   "exercise": "BW Cervical Flexion Extension",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Neck control through pain-free arc.",
+    "feel": "Chin tuck; slow nod; smooth breath.",
+    "avoid": "Throwing head, shrugging, dizziness."
+   },
+   "youtube": "https://www.youtube.com/watch?v=fGvH-HNX_Oc",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-cobra-childs-pose-flow.mp4",
+   "exercise": "BW Cobra Childs Pose Flow",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Alternate extension/flexion to ease stiffness.",
+    "feel": "Gentle cobra \u2192 sit back; breath leads.",
+    "avoid": "Locked elbows, low-back pinch, fast pace."
+   },
+   "youtube": "https://www.youtube.com/watch?v=KeCqdY6m3yQ",
+   "times_used_2025_26": 16,
+   "last_posted": null
+  },
+  {
+   "file": "bw-cossack-lunge.mp4",
+   "exercise": "BW Cossack Lunge",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Adductor mobility + single-leg strength for shift control.",
+    "feel": "Sit into one hip; other leg long; chest tall.",
+    "avoid": "Heel lift, rounding back, shallow depth."
+   },
+   "youtube": "https://www.youtube.com/watch?v=6rIGFQQbGdw",
+   "times_used_2025_26": 39,
+   "last_posted": null
+  },
+  {
+   "file": "bw-dead-bugs.mp4",
+   "exercise": "BW Dead Bugs",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Anti-extension/rotation control for consistent contact.",
+    "feel": "Ribs down; opposite arm/leg reach; no spine motion.",
+    "avoid": "Low-back pop up, rushing, shallow breath."
+   },
+   "youtube": "https://www.youtube.com/watch?v=buDJVxgVC6I",
+   "times_used_2025_26": 40,
+   "last_posted": null
+  },
+  {
+   "file": "bw-deceleration-drops.mp4",
+   "exercise": "BW Deceleration Drops",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Eccentric control to absorb force safely.",
+    "feel": "Soft, quiet land; knees track; chest tall.",
+    "avoid": "Crash landings, valgus knees, stiff ankles."
+   },
+   "youtube": "https://www.youtube.com/watch?v=nF4fe6etYSU",
+   "times_used_2025_26": 6,
+   "last_posted": null
+  },
+  {
+   "file": "bw-dorsiflexion-lunge.mp4",
+   "exercise": "BW Dorsiflexion Lunge",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Ankle dorsiflexion for stable shift/pressure.",
+    "feel": "Knee to wall over 2nd toe; heel down; slow.",
+    "avoid": "Knee collapse, heel lift, bouncing."
+   },
+   "youtube": "https://www.youtube.com/watch?v=dzApf0PyAgQ",
+   "times_used_2025_26": 15,
+   "last_posted": null
+  },
+  {
+   "file": "bw-dynamic-windmill.mp4",
+   "exercise": "BW Dynamic Windmill",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Hip hinge + T-spine mobility through motion.",
+    "feel": "Flow slow; rotate ribs; hips stay back.",
+    "avoid": "Lumbar twist, rushed range, breath lock."
+   },
+   "youtube": "https://www.youtube.com/watch?v=ID4qhg3wM7I",
+   "times_used_2025_26": 101,
+   "last_posted": null
+  },
+  {
+   "file": "bw-forearm-pronation-supination.mp4",
+   "exercise": "BW Forearm Pronation/Supination",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Forearm mobility for comfortable grip.",
+    "feel": "Elbow by side; rotate palm up/down; easy breath.",
+    "avoid": "Moving shoulder, forcing end range, pain."
+   },
+   "youtube": "https://www.youtube.com/watch?v=sKAnna2KSbM",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-frogger-stretch.mp4",
+   "exercise": "BW Frogger Stretch",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Adductor mobility for lateral shifts.",
+    "feel": "Knees wide; neutral spine; rock gently.",
+    "avoid": "Forced range, lumbar sag, knee pain."
+   },
+   "youtube": "https://www.youtube.com/watch?v=MLbcqHkelkE",
+   "times_used_2025_26": 9,
+   "last_posted": null
+  },
+  {
+   "file": "bw-fwd-lunge.mp4",
+   "exercise": "BW Forward Lunge",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Gait-pattern leg strength.",
+    "feel": "Step and drop vertical; knee tracks; push back.",
+    "avoid": "Torso lean, knee dive in, short range."
+   },
+   "youtube": "https://www.youtube.com/watch?v=IqFclMtVkV0",
+   "times_used_2025_26": 6,
+   "last_posted": null
+  },
+  {
+   "file": "bw-golf-posture-torso-rotations.mp4",
+   "exercise": "BW Golf Posture Torso Rotations",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Dissociation\u2014rotate ribcage over stable hips.",
+    "feel": "Address posture; quiet hips; smooth breath.",
+    "avoid": "Lumbar twist, swaying, shrugging."
+   },
+   "youtube": "https://www.youtube.com/watch?v=g8ux4UgiPEU",
+   "times_used_2025_26": 37,
+   "last_posted": "2026-11-13"
+  },
+  {
+   "file": "bw-hamstring-hip-flow.mp4",
+   "exercise": "BW Hamstring Hip Flow",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Combine hinge and hamstring length.",
+    "feel": "Long spine; hinge/bend sequence; slow breath.",
+    "avoid": "Rounding, bouncing, numbness."
+   },
+   "youtube": "https://www.youtube.com/watch?v=qpxst6LlEZA",
+   "times_used_2025_26": 12,
+   "last_posted": null
+  },
+  {
+   "file": "bw-hip-90-90.mp4",
+   "exercise": "BW Hip 90/90",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Internal/external hip rotation for turn depth.",
+    "feel": "Tall sit; move through both angles with breath.",
+    "avoid": "Slouching, forcing knee down, pinching."
+   },
+   "youtube": "https://www.youtube.com/watch?v=fOb8luL_LFU",
+   "times_used_2025_26": 16,
+   "last_posted": null
+  },
+  {
+   "file": "bw-hip-flexor-stretch.mp4",
+   "exercise": "BW Hip Flexor Stretch",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Front-hip length for pelvis position in setup.",
+    "feel": "Posterior tilt; glute on; gentle forward shift.",
+    "avoid": "Low-back arch, knee pain, forcing."
+   },
+   "youtube": "https://www.youtube.com/watch?v=qwVfNeELjpg",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-hip-thrusts.mp4",
+   "exercise": "BW Hip Thrusts",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Glute drive for stable, powerful downswing.",
+    "feel": "Feet planted; ribs down; squeeze at top.",
+    "avoid": "Hamstrings dominate, low-back arch."
+   },
+   "youtube": "https://www.youtube.com/watch?v=9U06e7MI_VA",
+   "times_used_2025_26": 10,
+   "last_posted": null
+  },
+  {
+   "file": "bw-hollow-hold.mp4",
+   "exercise": "BW Hollow Hold",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Midline endurance to maintain posture under speed.",
+    "feel": "Ribs down; low back kisses floor; steady exhale.",
+    "avoid": "Legs too low, shoulder shrug, breath hold."
+   },
+   "youtube": "https://www.youtube.com/watch?v=6DkRkmhB6CQ",
+   "times_used_2025_26": 22,
+   "last_posted": null
+  },
+  {
+   "file": "bw-hollow-rock.mp4",
+   "exercise": "BW Hollow Rock",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Global core stiffness for energy transfer.",
+    "feel": "Ribs down; slight rock from midsection; breathe.",
+    "avoid": "Big kicks, neck tension, lumbar arch."
+   },
+   "youtube": "https://www.youtube.com/watch?v=1EVdJKkZz3E",
+   "times_used_2025_26": 21,
+   "last_posted": null
+  },
+  {
+   "file": "bw-knee-pull-to-rotation.mp4",
+   "exercise": "BW Knee Pull to Rotation",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Hip flexor + T-spine mobility combo.",
+    "feel": "Pull knee, then gentle trunk turn; breathe.",
+    "avoid": "Lumbar twist, knee yank, speed."
+   },
+   "youtube": "https://www.youtube.com/watch?v=sVW8Nd9cgwI",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-knee-to-chest-crunch.mp4",
+   "exercise": "BW Knee to Chest Crunch",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Lower-ab engagement for pelvic control.",
+    "feel": "Exhale; ribs to pelvis; small smooth motion.",
+    "avoid": "Neck yank, leg swing, low-back arch."
+   },
+   "youtube": "https://www.youtube.com/watch?v=ShJVn1WFQOg",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-kneeling-lat-stretch.mp4",
+   "exercise": "BW Kneeling Lat Stretch",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Lat/shoulder length for overhead comfort.",
+    "feel": "Hips back; breathe into side ribs; relax.",
+    "avoid": "Shoulder pinch, low-back sag, force."
+   },
+   "youtube": "https://www.youtube.com/watch?v=BS9RJU0d19Q",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-kneeling-rotation.mp4",
+   "exercise": "BW Kneeling Rotation",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Segmental trunk rotation with pelvis fixed.",
+    "feel": "Tall kneel; ribs turn; eyes follow hand.",
+    "avoid": "Leaning, lumbar twist, rushed pace."
+   },
+   "youtube": "https://www.youtube.com/watch?v=6z3tzlXTyVM",
+   "times_used_2025_26": 65,
+   "last_posted": null
+  },
+  {
+   "file": "bw-lateral-bound-to-stick.mp4",
+   "exercise": "BW Lateral Bound to Stick",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Deceleration control for safe pressure shift.",
+    "feel": "Bound then freeze on stable foot; quiet torso.",
+    "avoid": "Multiple hops, valgus knee, torso twist."
+   },
+   "youtube": "https://www.youtube.com/watch?v=iDMFIBs3Vy4",
+   "times_used_2025_26": 18,
+   "last_posted": null
+  },
+  {
+   "file": "bw-lateral-bound-to-vertical-hop.mp4",
+   "exercise": "BW Lateral Bound to Vertical Hop",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Lateral brake then vertical drive\u2014transfer to swing.",
+    "feel": "Stick bound; gather; spring tall.",
+    "avoid": "Wobbly knee, rushed transition, loud landings."
+   },
+   "youtube": "https://www.youtube.com/watch?v=TO-63-8VAWk",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-lateral-lunge-w-club.mp4",
+   "exercise": "BW Lateral Lunge w/Club",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Frontal-plane strength with rotation cue.",
+    "feel": "Sit into hip; club guides tall chest; push to stand.",
+    "avoid": "Toe collapse, spine bend, shallow depth."
+   },
+   "youtube": "https://www.youtube.com/watch?v=-dF1pCbeqjc",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-leg-raises.mp4",
+   "exercise": "BW Leg Raises",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Anterior chain strength for pelvic control.",
+    "feel": "Low back gently down; smooth lift/lower.",
+    "avoid": "Swinging legs, arching low back, breath hold."
+   },
+   "youtube": "https://www.youtube.com/watch?v=3pNh1y_AS4M",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-lower-trunk-rotations.mp4",
+   "exercise": "BW Lower Trunk Rotations",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Lumbar/pelvic mobility with control.",
+    "feel": "Knees together; rock side-to-side; smooth.",
+    "avoid": "Throwing legs, pinchy back, breath hold."
+   },
+   "youtube": "https://www.youtube.com/watch?v=sGOn__iy-Fo",
+   "times_used_2025_26": 12,
+   "last_posted": null
+  },
+  {
+   "file": "bw-lunge-wrotation.mp4",
+   "exercise": "BW Lunge wRotation",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Leg strength with trunk turn\u2014sequencing practice.",
+    "feel": "Rotate over front hip; torso tall; calm breath.",
+    "avoid": "Lumbar twist, knee cave, rushed turn."
+   },
+   "youtube": "https://www.youtube.com/watch?v=RwkoC1-mWuE",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-open-book.mp4",
+   "exercise": "BW Open Book",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "T-spine rotation for easy backswing/finish.",
+    "feel": "Hips stacked; open arm with breath.",
+    "avoid": "Pelvis roll, neck crane, fast reps."
+   },
+   "youtube": "https://www.youtube.com/watch?v=KqbZnpQkD3Q",
+   "times_used_2025_26": 11,
+   "last_posted": "2026-11-10"
+  },
+  {
+   "file": "bw-pigeon-stretch.mp4",
+   "exercise": "BW Pigeon Stretch",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Posterior hip mobility for deeper, centered turn.",
+    "feel": "Comfortable shin angle; chest tall; exhale to sink.",
+    "avoid": "Knee pain, spinal twist, forcing depth."
+   },
+   "youtube": "https://www.youtube.com/watch?v=1PQd_Wd3ykM",
+   "times_used_2025_26": 11,
+   "last_posted": null
+  },
+  {
+   "file": "bw-plank-on-elbows.mp4",
+   "exercise": "BW Plank On Elbows",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Anterior core endurance to hold posture.",
+    "feel": "Elbows under shoulders; long line; nasal breath.",
+    "avoid": "Sag/pike, clenched neck, breath hold."
+   },
+   "youtube": "https://www.youtube.com/watch?v=QTBBDtpDc8o",
+   "times_used_2025_26": 37,
+   "last_posted": null
+  },
+  {
+   "file": "bw-plyo-bulgarian-split-squats.mp4",
+   "exercise": "BW Plyo Bulgarian Split Squats",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Unilateral power and decel/accel control.",
+    "feel": "Drop under control; explode; soft stick.",
+    "avoid": "Crash landings, knee cave, torso collapse."
+   },
+   "youtube": "https://www.youtube.com/watch?v=STOpm9Cs-kY",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-plyo-push-up.mp4",
+   "exercise": "BW Plyo Push Up",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Explosive upper-body power.",
+    "feel": "Stiff plank; fast push; hands leave lightly.",
+    "avoid": "Sagging core, elbows flare, heavy landings."
+   },
+   "youtube": "https://www.youtube.com/watch?v=uSnjKRxH6fs",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-prone-swimmer.mp4",
+   "exercise": "BW Prone Swimmer",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Mid-back endurance and scap control.",
+    "feel": "Long neck; sweep arms thumbs high; smooth breath.",
+    "avoid": "Neck crank, shrugging, rushed arcs."
+   },
+   "youtube": "https://www.youtube.com/watch?v=jT7kjwZ055c",
+   "times_used_2025_26": 56,
+   "last_posted": null
+  },
+  {
+   "file": "bw-pull-ups.mp4",
+   "exercise": "BW Pull Ups",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Vertical pulling strength for scap control.",
+    "feel": "Shoulders down/back; chest-to-bar path; full hang.",
+    "avoid": "Kipping, chin-only reps, shrugging."
+   },
+   "youtube": "https://www.youtube.com/watch?v=vTRbeCnIN8Q",
+   "times_used_2025_26": 6,
+   "last_posted": null
+  },
+  {
+   "file": "bw-push-up-+-windmill.mp4",
+   "exercise": "BW Push Up + Windmill",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Press + rotation for shoulder/trunk control.",
+    "feel": "Strong push-up; open to stacked side plank.",
+    "avoid": "Over-rotate hips, soft elbow, rushing."
+   },
+   "youtube": "https://www.youtube.com/watch?v=m-DCJKf3rjA",
+   "times_used_2025_26": 41,
+   "last_posted": null
+  },
+  {
+   "file": "bw-push-up-into-mountain-climbers.mp4",
+   "exercise": "BW Push Up Into Mountain Climbers",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Upper-body strength + core conditioning.",
+    "feel": "Crisp push-up then quick, quiet knees in.",
+    "avoid": "Butt high, hips twist, shallow push-ups."
+   },
+   "youtube": "https://www.youtube.com/watch?v=IX7MR1lQQVA",
+   "times_used_2025_26": 42,
+   "last_posted": null
+  },
+  {
+   "file": "bw-push-up.mp4",
+   "exercise": "BW Push Up",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Pressing strength and midline stability.",
+    "feel": "Body one line; elbows ~45\u00b0; full range.",
+    "avoid": "Head pecking, sagging hips, half reps."
+   },
+   "youtube": "https://www.youtube.com/watch?v=pxtAwxLLpr4",
+   "times_used_2025_26": 59,
+   "last_posted": null
+  },
+  {
+   "file": "bw-quadruped-heel-kick.mp4",
+   "exercise": "BW Quadruped Heel Kick",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Glute activation without lumbar extension.",
+    "feel": "Ribs down; heel to ceiling; small range.",
+    "avoid": "Sway back, hamstring cramp, big arch."
+   },
+   "youtube": "https://www.youtube.com/watch?v=S3Ulcd0Ytsk",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-quadruped-hip-cars.mp4",
+   "exercise": "BW Quadruped Hip CARS",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Hip control through full pain-free range.",
+    "feel": "Slow circles; pelvis steady; smooth breath.",
+    "avoid": "Flinging leg, lumbar motion, pinching."
+   },
+   "youtube": "https://www.youtube.com/watch?v=LrJU3omqhUw",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-rotational-split-squat.mp4",
+   "exercise": "BW Rotational Split Squat",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Leg strength with trunk rotation\u2014golf specific.",
+    "feel": "Rotate over front hip; knee tracks; ribs down.",
+    "avoid": "Lumbar twist, knee cave, loss of balance."
+   },
+   "youtube": "https://www.youtube.com/watch?v=2WeluvzUU6E",
+   "times_used_2025_26": 7,
+   "last_posted": null
+  },
+  {
+   "file": "bw-russian-twist.mp4",
+   "exercise": "BW Russian Twist",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Obliques + rib control under load.",
+    "feel": "Tall chest; rotate ribs; controlled tempo.",
+    "avoid": "Feet flail, lumbar twist, fast flail."
+   },
+   "youtube": "https://www.youtube.com/watch?v=ZOR3WaJ3-sk",
+   "times_used_2025_26": 17,
+   "last_posted": null
+  },
+  {
+   "file": "bw-seated-ankle-floss.mp4",
+   "exercise": "BW Seated Ankle Floss",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Ankle mobility for stable shifts.",
+    "feel": "Heel planted; sweep ankle circles; calm breath.",
+    "avoid": "Moving knee/hip, jerky speed, pain."
+   },
+   "youtube": "https://www.youtube.com/watch?v=0e7-FVqm4BQ",
+   "times_used_2025_26": 12,
+   "last_posted": null
+  },
+  {
+   "file": "bw-seated-box-jump.mp4",
+   "exercise": "BW Seated Box Jump",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Concentric power from dead stop.",
+    "feel": "Static sit \u2192 explode up; stick landing.",
+    "avoid": "Rock back first, knees cave, hard landings."
+   },
+   "youtube": "https://www.youtube.com/watch?v=cuW6fOlfUIQ",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-seated-cervical-rotations.mp4",
+   "exercise": "BW Seated Cervical Rotations",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Neck mobility for comfortable address.",
+    "feel": "Tall sit; gentle turns; breathe into end range.",
+    "avoid": "Forcing range, shrugging, fast reps."
+   },
+   "youtube": "https://www.youtube.com/watch?v=szQAmQ1Eqr4",
+   "times_used_2025_26": 12,
+   "last_posted": null
+  },
+  {
+   "file": "bw-seated-good-morning.mp4",
+   "exercise": "BW Seated Good Morning",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Hinge pattern seated\u2014targets hamstrings.",
+    "feel": "Chest tall; hinge from hips; long spine.",
+    "avoid": "Rounding, neck crane, bouncing for range."
+   },
+   "youtube": "https://www.youtube.com/watch?v=WDCQM3Cfusc",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-seated-heel-raise.mp4",
+   "exercise": "BW Seated Heel Raise",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Ankle control through range.",
+    "feel": "Ball of foot heavy; slow rise; pause.",
+    "avoid": "Rocking outward, bouncing, toe grip."
+   },
+   "youtube": "https://www.youtube.com/watch?v=jvh1xMMzXMs",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-seated-levator-stretch.mp4",
+   "exercise": "BW Seated Levator Stretch",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Target back-of-neck stiffness.",
+    "feel": "Chin tuck; nose toward armpit; gentle hold.",
+    "avoid": "Yanking head, shrugging, breath hold."
+   },
+   "youtube": "https://www.youtube.com/watch?v=p-hsSqYjwdw",
+   "times_used_2025_26": 12,
+   "last_posted": null
+  },
+  {
+   "file": "bw-seated-torso-rotations.mp4",
+   "exercise": "BW Seated Torso Rotations",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "T-spine rotation with pelvis anchored.",
+    "feel": "Sit tall; rotate ribs; slow breath.",
+    "avoid": "Slouching, neck twist, fast reps."
+   },
+   "youtube": "https://www.youtube.com/watch?v=aiROf-TXGPw",
+   "times_used_2025_26": 30,
+   "last_posted": "2026-11-09"
+  },
+  {
+   "file": "bw-seated-upper-trap-stretch.mp4",
+   "exercise": "BW Seated Upper Trap Stretch",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Reduce neck tension for freer turn.",
+    "feel": "Ear to shoulder; gentle hold; long exhales.",
+    "avoid": "Hard pulls, tingling, breath hold."
+   },
+   "youtube": "https://www.youtube.com/watch?v=MY_E9z2vamQ",
+   "times_used_2025_26": 14,
+   "last_posted": null
+  },
+  {
+   "file": "bw-shoulder-taps.mp4",
+   "exercise": "BW Shoulder Taps",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Anti-rotation core while weight-bearing on hands.",
+    "feel": "Wide base; quiet hips; light taps.",
+    "avoid": "Hips swing, breath lock, rushing."
+   },
+   "youtube": "https://www.youtube.com/watch?v=VyNGpJfiY2M",
+   "times_used_2025_26": 73,
+   "last_posted": null
+  },
+  {
+   "file": "bw-side-plank-hold.mp4",
+   "exercise": "BW Side Plank Hold",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Lateral core endurance to resist slide/sway.",
+    "feel": "Long line ear-to-ankle; shoulder stacked.",
+    "avoid": "Hips sag, shoulder sinks, neck strain."
+   },
+   "youtube": "https://www.youtube.com/watch?v=kTMdxFeO3KM",
+   "times_used_2025_26": 43,
+   "last_posted": null
+  },
+  {
+   "file": "bw-sl-bridge.mp4",
+   "exercise": "BW SL Bridge",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Unilateral glute strength for even pressure shift.",
+    "feel": "Hips level; ribs down; full hip extension.",
+    "avoid": "Pelvis twist, pushing from low back, foot too far."
+   },
+   "youtube": "https://www.youtube.com/watch?v=jFHBw2YYEQU",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-sl-drop-jump.mp4",
+   "exercise": "BW SL Drop Jump",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Eccentric control then reactivity for braking/exploding.",
+    "feel": "Step off; stick; minimal bend; spring back.",
+    "avoid": "Knees cave, loud landings, chest collapse."
+   },
+   "youtube": "https://www.youtube.com/watch?v=zcIxBmrZ7Bc",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-sl-glute-activation.mp4",
+   "exercise": "BW SL Glute Activation",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Glute recruitment for stance stability.",
+    "feel": "Push through heel; feel glute not low back.",
+    "avoid": "Hamstrings take over, knee cave, rushing."
+   },
+   "youtube": "https://www.youtube.com/watch?v=q61jTKhezbU",
+   "times_used_2025_26": 18,
+   "last_posted": null
+  },
+  {
+   "file": "bw-sl-plyo-hops.mp4",
+   "exercise": "BW SL Plyo Hops",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Elastic stiffness and foot/ankle resilience.",
+    "feel": "Quick springy contacts under hips; quiet feet.",
+    "avoid": "Over-stride, valgus knee, arch collapse."
+   },
+   "youtube": "https://www.youtube.com/watch?v=H4S_YkoxsCs",
+   "times_used_2025_26": 31,
+   "last_posted": null
+  },
+  {
+   "file": "bw-sl-rotational-jump.mp4",
+   "exercise": "BW SL Rotational Jump",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Unilateral power with rotation control.",
+    "feel": "Load, rotate, and jump off same leg; stick landing.",
+    "avoid": "Wobbly knee, spin without stick, hard landings."
+   },
+   "youtube": "https://www.youtube.com/watch?v=14HnyzPYDdc",
+   "times_used_2025_26": 3,
+   "last_posted": null
+  },
+  {
+   "file": "bw-sl-windmill.mp4",
+   "exercise": "BW SL Windmill",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Balance + posterior chain + T-spine mobility.",
+    "feel": "Hinge on stance leg; rotate ribs to reach.",
+    "avoid": "Lumbar twist, arch collapse, breath lock."
+   },
+   "youtube": "https://www.youtube.com/watch?v=E26W47K4kVo",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-split-stance-open-book.mp4",
+   "exercise": "BW Split Stance Open Book",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "T-spine rotation with hip lock.",
+    "feel": "Pelvis square; open through ribs; steady breath.",
+    "avoid": "Leaning back, lumbar twist, shrugging."
+   },
+   "youtube": "https://www.youtube.com/watch?v=GVZRw7mQXJM",
+   "times_used_2025_26": 14,
+   "last_posted": "2026-11-10"
+  },
+  {
+   "file": "bw-squat-hamstring-flow.mp4",
+   "exercise": "BW Squat Hamstring Flow",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Blend squat mobility and hamstring length.",
+    "feel": "Sink hips, then gently extend knees; slow breath.",
+    "avoid": "Forced depth, heel lift, lumbar flex."
+   },
+   "youtube": "https://www.youtube.com/watch?v=cPXuvJWoSjA",
+   "times_used_2025_26": 25,
+   "last_posted": null
+  },
+  {
+   "file": "bw-squat-jumps.mp4",
+   "exercise": "BW Squat Jumps",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Reactive power and elastic stiffness.",
+    "feel": "Quick dip; explode; land quiet/tall.",
+    "avoid": "Deep squat each rep, valgus knees, noisy landings."
+   },
+   "youtube": "https://www.youtube.com/watch?v=3jw-3IKmcQo",
+   "times_used_2025_26": 33,
+   "last_posted": null
+  },
+  {
+   "file": "bw-squat-windmill.mp4",
+   "exercise": "BW Squat Windmill",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Hip/T-spine mobility in deep squat.",
+    "feel": "Chest tall; rotate reach; heels down.",
+    "avoid": "Knees cave, heels up, fast twists."
+   },
+   "youtube": "https://www.youtube.com/watch?v=zowIAMPghTk",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-squat.mp4",
+   "exercise": "BW Squat",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Baseline leg strength for a stable rotation base.",
+    "feel": "Sit between hips; even feet; chest tall.",
+    "avoid": "Heels lift, knees cave, chest collapse."
+   },
+   "youtube": "https://www.youtube.com/watch?v=rQyp_NbsfP8",
+   "times_used_2025_26": 66,
+   "last_posted": null
+  },
+  {
+   "file": "bw-standard-plank-crunch.mp4",
+   "exercise": "BW Standard Plank Crunch",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Anterior core control with small dynamic flexion.",
+    "feel": "Short range; ribs to pelvis; hips steady.",
+    "avoid": "Neck yank, big hip pike, breath hold."
+   },
+   "youtube": "https://www.youtube.com/watch?v=8BS9TiIqSrY",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-standard-plank-hold.mp4",
+   "exercise": "BW Standard Plank Hold",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Anterior core endurance to hold posture.",
+    "feel": "Straight line; glutes on; steady breath.",
+    "avoid": "Sag/pike, shrugging, breath hold."
+   },
+   "youtube": "https://www.youtube.com/watch?v=YeBneGgtaOA",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-standing-box-jump.mp4",
+   "exercise": "BW Standing Box Jump",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Lower-body power for speed and reactivity.",
+    "feel": "Quick dip; explode; soft, tall landing.",
+    "avoid": "Stutter steps, knees cave, crash down."
+   },
+   "youtube": "https://www.youtube.com/watch?v=-kZRSFEDogc",
+   "times_used_2025_26": 32,
+   "last_posted": null
+  },
+  {
+   "file": "bw-standing-cat-cow.mp4",
+   "exercise": "BW Standing Cat Cow",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Quick posture reset anywhere.",
+    "feel": "Exhale to flex; inhale to extend; small range.",
+    "avoid": "Fast arcs, neck jam, pain."
+   },
+   "youtube": "https://www.youtube.com/watch?v=yCy_kKC0Y80",
+   "times_used_2025_26": 83,
+   "last_posted": "2026-11-13"
+  },
+  {
+   "file": "bw-standing-good-morning.mp4",
+   "exercise": "BW Standing Good Morning",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Hip hinge patterning without load.",
+    "feel": "Soft knees; hips back; long spine.",
+    "avoid": "Rounding, neck crane, knees cave."
+   },
+   "youtube": "https://www.youtube.com/watch?v=xZgVMU-i9m8",
+   "times_used_2025_26": 67,
+   "last_posted": null
+  },
+  {
+   "file": "bw-standing-rotational-box-jump.mp4",
+   "exercise": "BW Standing Rotational Box Jump",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Explosive rotation + vertical force with stick.",
+    "feel": "Load hips; rotate & jump; stick soft.",
+    "avoid": "Twisted knees, hard landings, uncontrolled spin."
+   },
+   "youtube": "https://www.youtube.com/watch?v=HDD1a6t5fsY",
+   "times_used_2025_26": 25,
+   "last_posted": null
+  },
+  {
+   "file": "bw-static-hamstring-stretch.mp4",
+   "exercise": "BW Static Hamstring Stretch",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Posterior chain length for hinge/posture.",
+    "feel": "Long spine; hinge from hips; gentle tension only.",
+    "avoid": "Rounding back, bouncing, numbness."
+   },
+   "youtube": "https://www.youtube.com/watch?v=b8IFRcm1skI",
+   "times_used_2025_26": 15,
+   "last_posted": null
+  },
+  {
+   "file": "bw-static-windmill.mp4",
+   "exercise": "BW Static Windmill",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Hamstring + T-spine mobility in a hinge.",
+    "feel": "Hips back; rotate ribs; breathe into hamstrings.",
+    "avoid": "Lumbar twist, locked knees, bouncing."
+   },
+   "youtube": "https://www.youtube.com/watch?v=hcnxN8zjCOQ",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-supine-bridge.mp4",
+   "exercise": "BW Supine Bridge",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Glute drive for a powerful, stable downswing.",
+    "feel": "Ribs down; squeeze glutes; pause on top.",
+    "avoid": "Hamstrings dominate, low-back arch."
+   },
+   "youtube": "https://www.youtube.com/watch?v=fB0ov0fqViE",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-switch-stance-torso-rotations.mp4",
+   "exercise": "BW Switch Stance Torso Rotations",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Dissociation with stance changes for sequencing.",
+    "feel": "Switch softly; rotate ribs; steady breath.",
+    "avoid": "Twist from lumbar, stiff hips, rushing."
+   },
+   "youtube": "https://www.youtube.com/watch?v=VS6nD23OICM",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-t-spine-extension-w-fr.mp4",
+   "exercise": "BW T Spine Extension w/FR",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": null,
+   "youtube": "https://www.youtube.com/watch?v=s2zS6L0hwz4",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-t-spine-flow.mp4",
+   "exercise": "BW T Spine Flow",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Global T-spine mobility for a fuller turn.",
+    "feel": "Smooth transitions; nose breathing; pain-free range.",
+    "avoid": "Rushing, lumbar twist, shrugging."
+   },
+   "youtube": "https://www.youtube.com/watch?v=na3hHb81sp0",
+   "times_used_2025_26": 11,
+   "last_posted": "2026-11-10"
+  },
+  {
+   "file": "bw-toe-taps.mp4",
+   "exercise": "BW Toe Taps",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Foot speed and rhythm to sharpen coordination.",
+    "feel": "Light taps; quick feet; chest tall.",
+    "avoid": "Stomping, leaning back, messy rhythm."
+   },
+   "youtube": "https://www.youtube.com/watch?v=c_kIGCIGSz0",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "bw-wall-sit.mp4",
+   "exercise": "BW Wall Sit",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Isometric quad/glute endurance for late-round stability.",
+    "feel": "Shins vertical; ribs stacked; even foot pressure.",
+    "avoid": "Hands on thighs, toe gripping, back arch."
+   },
+   "youtube": "https://www.youtube.com/watch?v=uHy9kaZvFwA",
+   "times_used_2025_26": 35,
+   "last_posted": null
+  },
+  {
+   "file": "cat-cow.mp4",
+   "exercise": "Cat/Cow",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Segmental spine motion to reduce stiffness.",
+    "feel": "Slow wave; breathe into end ranges.",
+    "avoid": "Forced range, neck jam, quick tempo."
+   },
+   "youtube": "https://www.youtube.com/watch?v=XIvw7JWGUPg",
+   "times_used_2025_26": 32,
+   "last_posted": null
+  },
+  {
+   "file": "db-bent-over-row.mp4",
+   "exercise": "DB Bent Over Row",
+   "equipment": "Dumbbell",
+   "coaching": {
+    "purpose": "Upper-back strength for posture and club-path control.",
+    "feel": "Firm hinge; lats packed; row to ribs; pause squeeze.",
+    "avoid": "Shrugging, jerking torso, curling DB."
+   },
+   "youtube": "https://www.youtube.com/watch?v=UEe4ao7imYY",
+   "times_used_2025_26": 10,
+   "last_posted": null
+  },
+  {
+   "file": "db-bicep-curls.mp4",
+   "exercise": "DB Bicep Curls",
+   "equipment": "Dumbbell",
+   "coaching": {
+    "purpose": "Arm strength to support grip and end-range control.",
+    "feel": "Elbows near ribs; smooth arc; full range.",
+    "avoid": "Swinging torso, flared wrists, partial reps."
+   },
+   "youtube": "https://www.youtube.com/watch?v=14kpZrDVlw8",
+   "times_used_2025_26": 9,
+   "last_posted": null
+  },
+  {
+   "file": "db-front-rack-lunge.mp4",
+   "exercise": "DB Front Rack Lunge",
+   "equipment": "Dumbbell",
+   "coaching": {
+    "purpose": "Leg strength with trunk stability\u2014clean transition control.",
+    "feel": "DBs high; ribs down; step and descend tall.",
+    "avoid": "Torso dump, knee cave, DBs banging."
+   },
+   "youtube": "https://www.youtube.com/watch?v=aG4BaNws69E",
+   "times_used_2025_26": 11,
+   "last_posted": null
+  },
+  {
+   "file": "db-front-raise.mp4",
+   "exercise": "DB Front Raise",
+   "equipment": "Dumbbell",
+   "coaching": {
+    "purpose": "Anterior shoulder control for top-of-swing comfort.",
+    "feel": "Shoulders down/back; lift to shoulder height; slow lower.",
+    "avoid": "Shrugging, arching back, momentum swing."
+   },
+   "youtube": "https://www.youtube.com/watch?v=xZE2yK8C_3c",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "db-hang-clean&jerk.mp4",
+   "exercise": "DB Hang Clean&Jerk",
+   "equipment": "Dumbbell",
+   "coaching": {
+    "purpose": "Hip drive + overhead power for sequencing and speed.",
+    "feel": "Explode from hips; clean close; dip-drive to lockout.",
+    "avoid": "Arm-pull, looping path, crashing overhead."
+   },
+   "youtube": "https://www.youtube.com/watch?v=Pzi6v1H1UOY",
+   "times_used_2025_26": 21,
+   "last_posted": null
+  },
+  {
+   "file": "db-hang-snatch.mp4",
+   "exercise": "DB Hang Snatch",
+   "equipment": "Dumbbell",
+   "coaching": {
+    "purpose": "Explosive hip extension to overhead\u2014rate-of-force.",
+    "feel": "Snap hips; punch overhead; quiet feet.",
+    "avoid": "Early arm pull, soft lockout, drift."
+   },
+   "youtube": "https://www.youtube.com/watch?v=k-ImIiKjvJQ",
+   "times_used_2025_26": 17,
+   "last_posted": null
+  },
+  {
+   "file": "db-lateral-raise.mp4",
+   "exercise": "DB Lateral Raise",
+   "equipment": "Dumbbell",
+   "coaching": {
+    "purpose": "Medial delt strength for shoulder balance.",
+    "feel": "Slight hinge; pinkies level; lift to ~90\u00b0.",
+    "avoid": "Shrugging, swinging, excessive thumbs-up."
+   },
+   "youtube": "https://www.youtube.com/watch?v=BxTr8Y8oUy8",
+   "times_used_2025_26": 12,
+   "last_posted": null
+  },
+  {
+   "file": "db-push-up-+-renegade-row.mp4",
+   "exercise": "DB Push Up + Renegade Row",
+   "equipment": "Dumbbell",
+   "coaching": {
+    "purpose": "Anti-rotation core + scap strength for posture under pressure.",
+    "feel": "Plank tight; row without hips rocking; steady breath.",
+    "avoid": "Hips twist, short push-ups, rushing rows."
+   },
+   "youtube": "https://www.youtube.com/watch?v=8hJ80H6sOtw",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "db-rdl-w-rotation.mp4",
+   "exercise": "DB RDL w/Rotation",
+   "equipment": "Dumbbell",
+   "coaching": {
+    "purpose": "Hinge strength with controlled trunk rotation.",
+    "feel": "Long spine; rotate ribs; hips stay square.",
+    "avoid": "Lumbar twist, reaching with DBs, knee cave."
+   },
+   "youtube": "https://www.youtube.com/watch?v=Kx2auGCMmP0",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "db-rdl.mp4",
+   "exercise": "DB RDL",
+   "equipment": "Dumbbell",
+   "coaching": {
+    "purpose": "Posterior-chain strength to support a steady spine.",
+    "feel": "Hinge; DBs skim legs; lats on; balanced feet.",
+    "avoid": "Rounding, DBs drifting forward, rushing eccentric."
+   },
+   "youtube": "https://www.youtube.com/watch?v=FdtH3khmAgU",
+   "times_used_2025_26": 6,
+   "last_posted": null
+  },
+  {
+   "file": "db-russian-twist.mp4",
+   "exercise": "DB Russian Twist",
+   "equipment": "Dumbbell",
+   "coaching": {
+    "purpose": "Oblique strength for rotational control.",
+    "feel": "Tall chest; rotate ribs over pelvis; breathe.",
+    "avoid": "Heels lifting, lumbar twist, flailing."
+   },
+   "youtube": "https://www.youtube.com/watch?v=mmGpAeMSu34",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "db-seated-arnold-press.mp4",
+   "exercise": "DB Seated Arnold Press",
+   "equipment": "Dumbbell",
+   "coaching": {
+    "purpose": "Shoulder strength through rotation to overhead.",
+    "feel": "Ribs stacked; rotate smoothly; finish stacked.",
+    "avoid": "Leaning back, clanking DBs, shrugging."
+   },
+   "youtube": "https://www.youtube.com/watch?v=fR6mNWmPlIs",
+   "times_used_2025_26": 10,
+   "last_posted": null
+  },
+  {
+   "file": "db-single-arm-oh-lunge.mp4",
+   "exercise": "DB Single Arm OH Lunge",
+   "equipment": "Dumbbell",
+   "coaching": {
+    "purpose": "Overhead stability while stepping\u2014posture under load.",
+    "feel": "Bell stacked; ribs down; smooth step.",
+    "avoid": "Over-arch, soft elbow, wobbling."
+   },
+   "youtube": "https://www.youtube.com/watch?v=9rHlQDZl-Zs",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "db-single-arm-rdl.mp4",
+   "exercise": "DB Single Arm RDL",
+   "equipment": "Dumbbell",
+   "coaching": {
+    "purpose": "Unilateral hinge with anti-rotation demand.",
+    "feel": "Hips square; lats pack; DB close to leg.",
+    "avoid": "Twisting, reaching forward, rounding."
+   },
+   "youtube": "https://www.youtube.com/watch?v=FrsnEdf0K0w",
+   "times_used_2025_26": 7,
+   "last_posted": null
+  },
+  {
+   "file": "db-suitcase-march.mp4",
+   "exercise": "DB Suitcase March",
+   "equipment": "Dumbbell",
+   "coaching": {
+    "purpose": "Loaded carry for grip and lateral core endurance.",
+    "feel": "Tall; small, controlled march; no torso sway.",
+    "avoid": "Leaning to bell, breath hold, stomping."
+   },
+   "youtube": "https://www.youtube.com/watch?v=UEAcGAvuf88",
+   "times_used_2025_26": 54,
+   "last_posted": null
+  },
+  {
+   "file": "dumbbell-seated-single-press.mp4",
+   "exercise": "Dumbbell Seated Single Press",
+   "equipment": "Dumbbell",
+   "coaching": {
+    "purpose": "Unilateral overhead strength and control.",
+    "feel": "Brace midline; press to stacked wrist/shoulder.",
+    "avoid": "Tilting torso, soft lockout, wrist bent."
+   },
+   "youtube": "https://www.youtube.com/watch?v=v-dGd09yPfs",
+   "times_used_2025_26": 10,
+   "last_posted": null
+  },
+  {
+   "file": "fr-calf.mp4",
+   "exercise": "FR Calf",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": null,
+   "youtube": "https://www.youtube.com/watch?v=zZzRbX0_SyU",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "fr-glute.mp4",
+   "exercise": "FR Glute",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": null,
+   "youtube": "https://www.youtube.com/watch?v=KirXajiaJbs",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "fr-hamstring.mp4",
+   "exercise": "FR Hamstring",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": null,
+   "youtube": "https://www.youtube.com/watch?v=M_DokOOBE_s",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "fr-quad.mp4",
+   "exercise": "FR Quad",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": null,
+   "youtube": "https://www.youtube.com/watch?v=dQvdF_hVM1o",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "fr-reach-roll-lift.mp4",
+   "exercise": "FR Reach, Roll, Lift",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Scap control + T-spine mobility for a smoother backswing.",
+    "feel": "Reach long, roll, then lift with ribs down.",
+    "avoid": "Low-back arch, shrugging, rushing."
+   },
+   "youtube": "https://www.youtube.com/watch?v=xFhwXRbaRkc",
+   "times_used_2025_26": 9,
+   "last_posted": null
+  },
+  {
+   "file": "fr-t-spine.mp4",
+   "exercise": "FR T Spine",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Improve mid-back extension to spare the low back.",
+    "feel": "Support head; small arcs over roller; exhale at end range.",
+    "avoid": "Neck crank, big crunches, breath hold."
+   },
+   "youtube": "https://www.youtube.com/watch?v=fc3wkMZ9Ngg",
+   "times_used_2025_26": 15,
+   "last_posted": null
+  },
+  {
+   "file": "fr-thread-the-needle.mp4",
+   "exercise": "FR Thread the Needle",
+   "equipment": "Mobility / Foam Roller",
+   "coaching": {
+    "purpose": "Open T-spine/posterior shoulder for freer turn.",
+    "feel": "Slow reach-under then open; breathe into stretch.",
+    "avoid": "Pushing into pain, moving fast, shrugging."
+   },
+   "youtube": "https://www.youtube.com/watch?v=wUb_-h8ybOE",
+   "times_used_2025_26": 11,
+   "last_posted": null
+  },
+  {
+   "file": "fwd-bwd-pogos.mp4",
+   "exercise": "Fwd/Bwd Pogos",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Elastic ankle stiffness and rhythm for recoil.",
+    "feel": "Quick light bounces; knees soft; quiet feet.",
+    "avoid": "Heavy landings, heels slam, hip bend."
+   },
+   "youtube": "https://www.youtube.com/watch?v=YNo96VKAeJc",
+   "times_used_2025_26": 37,
+   "last_posted": null
+  },
+  {
+   "file": "golf-posture-resisted-thoracic-rotation.mp4",
+   "exercise": "Golf Posture Resisted Thoracic Rotation",
+   "equipment": "Resistance Band",
+   "coaching": {
+    "purpose": "Increase T-spine rotation in golf posture for more X-factor and cleaner club path.",
+    "feel": "Mid-foot grounded, hips quiet; rotate ribs over a braced core.",
+    "avoid": "Twisting from low back, shrugging, losing spine angle."
+   },
+   "youtube": "https://www.youtube.com/watch?v=wzTgoGyh9dM",
+   "times_used_2025_26": 31,
+   "last_posted": null
+  },
+  {
+   "file": "kb-1-2-kneeling-bottom-up-press.mp4",
+   "exercise": "KB 1/2 Kneeling Bottom Up Press",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Build shoulder stability and grip reflex for steadier top-of-swing positions.",
+    "feel": "Tall half-kneel; bell vertical; ribs down; smooth press.",
+    "avoid": "Tilting bell, flared ribs, elbow behind body."
+   },
+   "youtube": "https://www.youtube.com/watch?v=W4D5REkJDS4",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "kb-1-2-kneeling-clean&press.mp4",
+   "exercise": "KB 1/2 Kneeling Clean&Press",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Train hip-to-shoulder power transfer for speed with overhead control.",
+    "feel": "Clean from leg drive; tight rack; press with full-body tension.",
+    "avoid": "Arm-yank, collapsed wrist, over-arching low back."
+   },
+   "youtube": "https://www.youtube.com/watch?v=zMjf0ynub8I",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "kb-1-2-kneeling-rotational-chop.mp4",
+   "exercise": "KB 1/2 Kneeling Rotational Chop",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Develop rotational strength from hips to hands for efficient sequencing.",
+    "feel": "Hips/trunk initiate; bell travels diagonally; eyes level.",
+    "avoid": "Arms leading, pelvis locked, jerky path."
+   },
+   "youtube": "https://www.youtube.com/watch?v=-l0KzTd5rEQ",
+   "times_used_2025_26": 0,
+   "last_posted": "2026-11-14"
+  },
+  {
+   "file": "kb-1-2-kneeling-sa-press.mp4",
+   "exercise": "KB 1/2 Kneeling SA Press",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Unilateral press + anti-side-bend for stable posture at impact.",
+    "feel": "Glute of down knee on; ribs stacked; smooth lockout.",
+    "avoid": "Leaning, shrugging, wrist bent back."
+   },
+   "youtube": "https://www.youtube.com/watch?v=mAvxX9ira04",
+   "times_used_2025_26": 28,
+   "last_posted": null
+  },
+  {
+   "file": "kb-bear-plank-pull-through.mp4",
+   "exercise": "KB Bear Plank Pull Through",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Anti-rotation core + shoulder stability to resist sway/slide.",
+    "feel": "Knees hover; hips square; drag bell smoothly.",
+    "avoid": "Hip rock, breath hold, rounded back."
+   },
+   "youtube": "https://www.youtube.com/watch?v=l7Md16lDrWs",
+   "times_used_2025_26": 10,
+   "last_posted": null
+  },
+  {
+   "file": "kb-crossbody-bulgarian-split-squat.mp4",
+   "exercise": "KB Crossbody Bulgarian Split Squat",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Leg strength with anti-rotation like lead-leg posting.",
+    "feel": "Torso tall; knee tracks 2nd toe; bell across body tight.",
+    "avoid": "Knee valgus, torso collapse, bounce at bottom."
+   },
+   "youtube": "https://www.youtube.com/watch?v=WdWx94Lwb30",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "kb-crossbody-front-rack-lunge.mp4",
+   "exercise": "KB Crossbody Front Rack Lunge",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Front-side stability and rotary control during gait pattern.",
+    "feel": "Rack high; ribs down; step through tall.",
+    "avoid": "Rack collapse, knee cave, toes-only push."
+   },
+   "youtube": "https://www.youtube.com/watch?v=4x1wAV-H6jE",
+   "times_used_2025_26": 5,
+   "last_posted": null
+  },
+  {
+   "file": "kb-deadlift.mp4",
+   "exercise": "KB Deadlift",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Posterior-chain strength to create ground force and protect the back.",
+    "feel": "Hinge; lats packed; bell close; drive floor away.",
+    "avoid": "Rounding back, arm pull, rocking to toes."
+   },
+   "youtube": "https://www.youtube.com/watch?v=tj_1H3xESQg",
+   "times_used_2025_26": 7,
+   "last_posted": null
+  },
+  {
+   "file": "kb-farmer-carry.mp4",
+   "exercise": "KB Farmer Carry",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Grip/core endurance and posture for consistent setup.",
+    "feel": "Tall, ribs stacked; quiet hips; crisp walk.",
+    "avoid": "Leaning/swaying, shrugging, shallow breaths."
+   },
+   "youtube": "https://www.youtube.com/watch?v=HI9old7GNPE",
+   "times_used_2025_26": 52,
+   "last_posted": null
+  },
+  {
+   "file": "kb-front-rack-lunge.mp4",
+   "exercise": "KB Front Rack Lunge",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Quad/glute strength with trunk stiffness for stable transitions.",
+    "feel": "Rack tight; drop straight down; push through whole foot.",
+    "avoid": "Torso dump, knee dive in, losing rack."
+   },
+   "youtube": "https://www.youtube.com/watch?v=TEEDkCz3oFI",
+   "times_used_2025_26": 7,
+   "last_posted": null
+  },
+  {
+   "file": "kb-front-rack-squat.mp4",
+   "exercise": "KB Front Rack Squat",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Lower-body force + upper-back stiffness to support rotation.",
+    "feel": "Elbows forward; ribs down; sit between hips; even feet.",
+    "avoid": "Heels lift, elbows drop, butt-wink."
+   },
+   "youtube": "https://www.youtube.com/watch?v=7OiX93CVLiM",
+   "times_used_2025_26": 5,
+   "last_posted": null
+  },
+  {
+   "file": "kb-gorilla-row.mp4",
+   "exercise": "KB Gorilla Row",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Hinge-position back strength with anti-rotation demand.",
+    "feel": "Hips back; spine long; row to hip with minimal sway.",
+    "avoid": "Twisting to lift, rounding, yanking bell."
+   },
+   "youtube": "https://www.youtube.com/watch?v=VfhQFjYjyiE",
+   "times_used_2025_26": 10,
+   "last_posted": null
+  },
+  {
+   "file": "kb-kickstand-rdl.mp4",
+   "exercise": "KB Kickstand RDL",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Target hinge while keeping pelvis square\u2014great for swing posture.",
+    "feel": "Front foot loads; back toe light; slide hips back; lats on.",
+    "avoid": "Hips opening, reaching forward, lumbar arch."
+   },
+   "youtube": "https://www.youtube.com/watch?v=VglMzMyWmXk",
+   "times_used_2025_26": 3,
+   "last_posted": null
+  },
+  {
+   "file": "kb-kneeling-rotation.mp4",
+   "exercise": "KB Kneeling Rotation",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Trunk rotation with pelvis fixed for better dissociation.",
+    "feel": "Tall kneel; rotate ribs; breath drives range.",
+    "avoid": "Leaning/side-bending, glutes off, neck crank."
+   },
+   "youtube": "https://www.youtube.com/watch?v=DNPTbJo1FUs",
+   "times_used_2025_26": 11,
+   "last_posted": null
+  },
+  {
+   "file": "kb-lateral-flexion.mp4",
+   "exercise": "KB Lateral Flexion",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Lateral core strength to resist sway/slide.",
+    "feel": "Bell glides down thigh; ribs stacked; slow control.",
+    "avoid": "Crunching forward, shoulder hike, pelvic tilt."
+   },
+   "youtube": "https://www.youtube.com/watch?v=uvkRwofF-H8",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "kb-lateral-lunge.mp4",
+   "exercise": "KB Lateral Lunge",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Frontal-plane strength/adductor mobility for pressure shift.",
+    "feel": "Sit into hip; trail leg long; chest tall; push floor away.",
+    "avoid": "Toe collapse, knee inside big toe, spinal bend."
+   },
+   "youtube": "https://www.youtube.com/watch?v=jgUE9jUM0Mc",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "kb-lateral-step-down.mp4",
+   "exercise": "KB Lateral Step Down",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Control of frontal-plane knee/hip\u2014trail-leg braking.",
+    "feel": "Soft tap; knee tracks; pelvis level.",
+    "avoid": "Pelvis drop, knee cave, bouncing."
+   },
+   "youtube": "https://www.youtube.com/watch?v=w2V4dHEoyaE",
+   "times_used_2025_26": 7,
+   "last_posted": null
+  },
+  {
+   "file": "kb-plank-saw.mp4",
+   "exercise": "KB Plank Saw",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Anterior core endurance to hold posture through impact.",
+    "feel": "Straight line head-to-heels; saw from shoulders; steady breath.",
+    "avoid": "Sag/pike, neck strain, choppy breaths."
+   },
+   "youtube": "https://www.youtube.com/watch?v=UoJuPxsdkiE",
+   "times_used_2025_26": 27,
+   "last_posted": null
+  },
+  {
+   "file": "kb-push-press.mp4",
+   "exercise": "KB Push Press",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Leg-to-arm power transfer for speed.",
+    "feel": "Dip/drive vertical; rack tight; punch overhead.",
+    "avoid": "Forward dip, soft lockout, rib flare."
+   },
+   "youtube": "https://www.youtube.com/watch?v=er3GE3DSI4w",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "kb-rdl.mp4",
+   "exercise": "KB RDL",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Posterior-chain strength; protects back during rotation.",
+    "feel": "Hinge; shins near vertical; lats packed.",
+    "avoid": "Bell drifting, rounding, rushed tempo."
+   },
+   "youtube": "https://www.youtube.com/watch?v=1UtIY4gDsI4",
+   "times_used_2025_26": 6,
+   "last_posted": null
+  },
+  {
+   "file": "kb-rotational-goblet-split-squat.mp4",
+   "exercise": "KB Rotational Goblet Split Squat",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Leg strength with controlled trunk rotation\u2014golf specific.",
+    "feel": "Goblet high; rotate over front hip; knee tracks.",
+    "avoid": "Lumbar twist, knee collapse, losing depth."
+   },
+   "youtube": "https://www.youtube.com/watch?v=fL4z67KKszk",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "kb-sa-hang-snatch.mp4",
+   "exercise": "KB SA Hang Snatch",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Explosive hip drive to overhead for more clubhead speed.",
+    "feel": "Snap hips; bell floats; punch to lockout; quiet feet.",
+    "avoid": "Early arm pull, crash overhead, looping path."
+   },
+   "youtube": "https://www.youtube.com/watch?v=5et_jkf-VYg",
+   "times_used_2025_26": 6,
+   "last_posted": null
+  },
+  {
+   "file": "kb-sa-oh-lunge.mp4",
+   "exercise": "KB SA OH Lunge",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Overhead stability with lower-body control to maintain posture.",
+    "feel": "Bell stacked over shoulder; ribs down; smooth step.",
+    "avoid": "Over-arching, soft elbow, wobble under load."
+   },
+   "youtube": "https://www.youtube.com/watch?v=V6DA3_oxv9k",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "kb-sa-power-jerk.mp4",
+   "exercise": "KB SA Power Jerk",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Elastic leg drive and overhead timing for speed.",
+    "feel": "Dip/drive; re-bend to receive; strong lockout.",
+    "avoid": "Pressing instead of driving; soft catch; feet narrow."
+   },
+   "youtube": "https://www.youtube.com/watch?v=VviM9tI7BFo",
+   "times_used_2025_26": 2,
+   "last_posted": null
+  },
+  {
+   "file": "kb-sa-push-press.mp4",
+   "exercise": "KB SA Push Press",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Quick leg drive to overhead strength for a steadier arm slot.",
+    "feel": "Vertical dip; rack tight; punch & finish stacked.",
+    "avoid": "Forward lean, over-pressing, rib flare."
+   },
+   "youtube": "https://www.youtube.com/watch?v=_vM4NCHcBh0",
+   "times_used_2025_26": 5,
+   "last_posted": null
+  },
+  {
+   "file": "kb-sa-rotational-clean&press.mp4",
+   "exercise": "KB SA Rotational Clean&Press",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Rotational power from hips to hand plus overhead control.",
+    "feel": "Turn from hips; clean to rack; press with stacked ribs.",
+    "avoid": "Lumbar twist, casting bell, losing rack."
+   },
+   "youtube": "https://www.youtube.com/watch?v=wQvpHHDpdaA",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "kb-sa-split-jerk.mp4",
+   "exercise": "KB SA Split Jerk",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "High-speed force transfer with split-stance stability.",
+    "feel": "Aggressive drive; split to catch; firm lockout.",
+    "avoid": "Shallow dip, soft lockout, crossing feet."
+   },
+   "youtube": "https://www.youtube.com/watch?v=LC4abumbjcg",
+   "times_used_2025_26": 8,
+   "last_posted": null
+  },
+  {
+   "file": "kb-sa-thruster.mp4",
+   "exercise": "KB SA Thruster",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Total-body power and capacity for late-round resilience.",
+    "feel": "Front squat then punch overhead in one drive.",
+    "avoid": "Half squats, pausing at bottom, slow press."
+   },
+   "youtube": "https://www.youtube.com/watch?v=91TX68zI_j8",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "kb-sl-rdl-w-rotation.mp4",
+   "exercise": "KB SL RDL with Rotation",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Hinge balance with controlled trunk rotation like the backswing.",
+    "feel": "Hips square; rotate ribs over stable foot.",
+    "avoid": "Twisting lumbar, foot collapse, rushing range."
+   },
+   "youtube": "https://www.youtube.com/watch?v=MEH-VZxDdTY",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "kb-snatch.mp4",
+   "exercise": "KB Snatch",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Explosive hip drive with overhead stability\u2014raise ball speed.",
+    "feel": "Snap hips; bell path close; punch to lockout.",
+    "avoid": "Early arm pull, big arc, unstable overhead."
+   },
+   "youtube": "https://www.youtube.com/watch?v=v5Gc2KvzSbU",
+   "times_used_2025_26": 8,
+   "last_posted": null
+  },
+  {
+   "file": "kb-split-stance-swing.mp4",
+   "exercise": "KB Split Stance Swing",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Power in staggered stance\u2014mirrors golf pressure shift.",
+    "feel": "Hinge then snap; bell floats from hip drive; feet rooted.",
+    "avoid": "Squatting the swing, arm lift, torso rotation."
+   },
+   "youtube": "https://www.youtube.com/watch?v=5BJtqgaxlUI",
+   "times_used_2025_26": 5,
+   "last_posted": null
+  },
+  {
+   "file": "kb-suitcase-deadlift.mp4",
+   "exercise": "KB Suitcase Deadlift",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Hinge with anti-rotation core for durable address posture.",
+    "feel": "Bell close; hips square; equal foot pressure.",
+    "avoid": "Side bend to bell, twisting, yank start."
+   },
+   "youtube": "https://www.youtube.com/watch?v=ZnBEgzFGNOI",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "kb-suitcase-lunge.mp4",
+   "exercise": "KB Suitcase Lunge",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Unilateral load challenges frontal-plane stability.",
+    "feel": "Bell hangs; torso tall; knee tracks; controlled descent.",
+    "avoid": "Leaning to bell, knee valgus, choppy steps."
+   },
+   "youtube": "https://www.youtube.com/watch?v=cuOHfMbfX1U",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "kb-sumo-deadlift-high-pull.mp4",
+   "exercise": "KB Sumo Deadlift High Pull",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Hip power with upper-back finish\u2014conditioning & speed.",
+    "feel": "Wide stance; snap hips; elbows high/out.",
+    "avoid": "Arm-yank, rounded back, early pull."
+   },
+   "youtube": "https://www.youtube.com/watch?v=F_K8Z06pVXI",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "kb-swings.mp4",
+   "exercise": "KB Swings",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Hip-hinge power and elastic timing\u2014foundation for speed.",
+    "feel": "Snap from hips; bell floats; lats packed; rhythmic breath.",
+    "avoid": "Shoulder lift, squatty pattern, over-extend at top."
+   },
+   "youtube": "https://www.youtube.com/watch?v=TpJ60kew-Rw",
+   "times_used_2025_26": 20,
+   "last_posted": null
+  },
+  {
+   "file": "kb-tall-kneeling-global-rotations.mp4",
+   "exercise": "Kb Tall Kneeling Global Rotations",
+   "equipment": null,
+   "coaching": null,
+   "youtube": null,
+   "times_used_2025_26": null,
+   "last_posted": null
+  },
+  {
+   "file": "kb-thrusters.mp4",
+   "exercise": "KB Thrusters",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Squat-to-press power and work capacity.",
+    "feel": "Drive hard from legs; seamless transition overhead.",
+    "avoid": "Early press, soft lockout, torso collapse."
+   },
+   "youtube": "https://www.youtube.com/watch?v=mbDa_bLIAfc",
+   "times_used_2025_26": 13,
+   "last_posted": null
+  },
+  {
+   "file": "kb-turkish-get-up.mp4",
+   "exercise": "KB Turkish Get Up",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Total-body stability and shoulder resilience for repeatable posture.",
+    "feel": "Eyes on bell; stack joints; own each pause.",
+    "avoid": "Rushing steps, bent wrist, midline loss."
+   },
+   "youtube": "https://www.youtube.com/watch?v=a-pfOU7kPXc",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "kb-windmill-switch.mp4",
+   "exercise": "KB Windmill Switch",
+   "equipment": "Kettlebell",
+   "coaching": {
+    "purpose": "Rotary hip/shoulder stability and T-spine mobility.",
+    "feel": "Hinge to side; stacked shoulder; rotate ribs.",
+    "avoid": "Forward spine bend, soft elbow, collapsing hip."
+   },
+   "youtube": "https://www.youtube.com/watch?v=cubrBO75CCc",
+   "times_used_2025_26": 12,
+   "last_posted": null
+  },
+  {
+   "file": "landmine-deadlift.mp4",
+   "exercise": "Landmine Deadlift",
+   "equipment": "Landmine",
+   "coaching": {
+    "purpose": "Hinge strength with friendly path for back safety.",
+    "feel": "Hips back; bar close; drive through feet.",
+    "avoid": "Rounding, arm yank, toes rock."
+   },
+   "youtube": "https://www.youtube.com/watch?v=RHBUbkCNgoA",
+   "times_used_2025_26": 7,
+   "last_posted": null
+  },
+  {
+   "file": "landmine-lateral-lunge.mp4",
+   "exercise": "Landmine Lateral Lunge",
+   "equipment": "Landmine",
+   "coaching": {
+    "purpose": "Frontal-plane strength/adductor load for shift control.",
+    "feel": "Sit into hip; trail leg long; bar close.",
+    "avoid": "Toe collapse, spine bend, shallow depth."
+   },
+   "youtube": "https://www.youtube.com/watch?v=JxeRljcXc5g",
+   "times_used_2025_26": 7,
+   "last_posted": null
+  },
+  {
+   "file": "landmine-overhead-march.mp4",
+   "exercise": "Landmine Overhead March",
+   "equipment": "Landmine",
+   "coaching": {
+    "purpose": "Overhead core stability + gait control.",
+    "feel": "Stacked path; small crisp marches.",
+    "avoid": "Wobble, over-arch, stomping."
+   },
+   "youtube": "https://www.youtube.com/watch?v=fCislziD3QQ",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "landmine-rotational-push-press.mp4",
+   "exercise": "Landmine Rotational Push Press",
+   "equipment": "Landmine",
+   "coaching": {
+    "purpose": "Rotational leg drive to press\u2014golf-specific power.",
+    "feel": "Pivot then punch up/out; finish tall.",
+    "avoid": "Arms lead, flat feet, rib flare."
+   },
+   "youtube": "https://www.youtube.com/watch?v=6lCNfAe3xHo",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "landmine-row-to-press.mp4",
+   "exercise": "Landmine Row to Press",
+   "equipment": "Landmine",
+   "coaching": {
+    "purpose": "Pull \u2192 press sequencing with trunk control.",
+    "feel": "Row to ribs then rotate and press smooth.",
+    "avoid": "Jerky transition, shrugging, lumbar twist."
+   },
+   "youtube": "https://www.youtube.com/watch?v=pXeIR8k8YoA",
+   "times_used_2025_26": 10,
+   "last_posted": null
+  },
+  {
+   "file": "landmine-sa-row.mp4",
+   "exercise": "Landmine SA Row",
+   "equipment": "Landmine",
+   "coaching": {
+    "purpose": "Unilateral back strength with hinge posture.",
+    "feel": "Hips back; row to pocket; pause squeeze.",
+    "avoid": "Torso twist, shrugging, yanking."
+   },
+   "youtube": "https://www.youtube.com/watch?v=uVQfohEfFSE",
+   "times_used_2025_26": 9,
+   "last_posted": null
+  },
+  {
+   "file": "landmine-sa-split-jerk.mp4",
+   "exercise": "Landmine SA Split Jerk",
+   "equipment": "Landmine",
+   "coaching": {
+    "purpose": "High-speed leg drive to overhead in split.",
+    "feel": "Aggressive dip/drive; split under; lock.",
+    "avoid": "Press slow, shallow catch, crossing feet."
+   },
+   "youtube": "https://www.youtube.com/watch?v=wtQD6m_Tkzk",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "landmine-sl-rdl.mp4",
+   "exercise": "Landmine SL RDL",
+   "equipment": "Landmine",
+   "coaching": {
+    "purpose": "Hinge + balance with friendly implement.",
+    "feel": "Hips square; bar path close; long spine.",
+    "avoid": "Pelvis rotation, reach forward, rounding."
+   },
+   "youtube": "https://www.youtube.com/watch?v=7Ml3dmL-Djc",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "landmine-split-stance-torso-rotation.mp4",
+   "exercise": "Landmine Split Stance Torso Rotation",
+   "equipment": "Landmine",
+   "coaching": {
+    "purpose": "Rotational strength with planted feet.",
+    "feel": "Hips initiate; trunk turns; eyes level.",
+    "avoid": "Arms take over, lumbar twist, quick reps."
+   },
+   "youtube": "https://www.youtube.com/watch?v=i7ji8EOTqgk",
+   "times_used_2025_26": 11,
+   "last_posted": null
+  },
+  {
+   "file": "landmine-thruster.mp4",
+   "exercise": "Landmine Thruster",
+   "equipment": "Landmine",
+   "coaching": {
+    "purpose": "Total-body power and capacity.",
+    "feel": "Front squat then punch up/out in one drive.",
+    "avoid": "Early press, shallow squat, soft lockout."
+   },
+   "youtube": "https://www.youtube.com/watch?v=S54ABfpQmqg",
+   "times_used_2025_26": 14,
+   "last_posted": null
+  },
+  {
+   "file": "landmine-torso-rotation.mp4",
+   "exercise": "Landmine Torso Rotation",
+   "equipment": "Landmine",
+   "coaching": {
+    "purpose": "Rotational power/timing for sequencing.",
+    "feel": "Turn from hips\u2192ribs; smooth path; breathe.",
+    "avoid": "Arm sling, knees cave, lumbar twist."
+   },
+   "youtube": "https://www.youtube.com/watch?v=r0PGRpCIrN4",
+   "times_used_2025_26": 11,
+   "last_posted": null
+  },
+  {
+   "file": "lateral-flow-med-ball-slams.mp4",
+   "exercise": "Lateral Flow Med Ball Slams",
+   "equipment": "Medicine Ball",
+   "coaching": {
+    "purpose": "Rotational power and decel control laterally\u2014transfer to downswing.",
+    "feel": "Step/shift then whip into slam; crisp rebound if used.",
+    "avoid": "Arms-only, no hip turn, knee crash."
+   },
+   "youtube": "https://www.youtube.com/watch?v=WFn4AJgPU1g",
+   "times_used_2025_26": 7,
+   "last_posted": null
+  },
+  {
+   "file": "mb-alt-oh-slam.mp4",
+   "exercise": "MB Alt OH Slam",
+   "equipment": "Medicine Ball",
+   "coaching": {
+    "purpose": "Total-body power and overhead control.",
+    "feel": "Tall reach then violent slam from ribs down.",
+    "avoid": "Arms-only, locked knees, back arch."
+   },
+   "youtube": "https://www.youtube.com/watch?v=ckNa-puhjtg",
+   "times_used_2025_26": 20,
+   "last_posted": null
+  },
+  {
+   "file": "mb-alt-rotational-throw.mp4",
+   "exercise": "MB Alt Rotational Throw",
+   "equipment": "Medicine Ball",
+   "coaching": {
+    "purpose": "Cross-body sequencing for distance.",
+    "feel": "Load rear hip; rotate then release; stick finish.",
+    "avoid": "Early arm throw, no hip turn, fall off line."
+   },
+   "youtube": "https://www.youtube.com/watch?v=azlgYHo02yY",
+   "times_used_2025_26": 14,
+   "last_posted": null
+  },
+  {
+   "file": "mb-bulgarian-split-squat-with-torso-rotation.mp4",
+   "exercise": "MB Bulgarian Split Squat with Torso Rotation",
+   "equipment": "Medicine Ball",
+   "coaching": {
+    "purpose": "Unilateral strength with trunk rotation for stable posting.",
+    "feel": "Drop vertical; rotate over front hip; tall chest.",
+    "avoid": "Lumbar twist, knee cave, wobble."
+   },
+   "youtube": "https://www.youtube.com/watch?v=RbqerOglBv0",
+   "times_used_2025_26": 9,
+   "last_posted": null
+  },
+  {
+   "file": "mb-downswing-slam.mp4",
+   "exercise": "MB Downswing Slam",
+   "equipment": "Medicine Ball",
+   "coaching": {
+    "purpose": "Down-channel speed specific to golf.",
+    "feel": "Hips lead \u2192 trunk \u2192 arms into slam.",
+    "avoid": "Arms first, no shift, soft effort."
+   },
+   "youtube": "https://www.youtube.com/watch?v=GRqAMj-ZM_Y",
+   "times_used_2025_26": 7,
+   "last_posted": null
+  },
+  {
+   "file": "mb-kneeling-chest-press.mp4",
+   "exercise": "MB Kneeling Chest Press",
+   "equipment": "Medicine Ball",
+   "coaching": {
+    "purpose": "Upper-body power without lower-body cheat.",
+    "feel": "Tall kneel; ribs down; drive ball straight out.",
+    "avoid": "Lean back, rib flare, wrist collapse."
+   },
+   "youtube": "https://www.youtube.com/watch?v=hUuPClsn0n8",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "mb-oh-slam-w-rotational-throw.mp4",
+   "exercise": "MB OH Slam w/Rotational Throw",
+   "equipment": "Medicine Ball",
+   "coaching": {
+    "purpose": "Vertical \u2192 rotational power blend.",
+    "feel": "Slam hard, collect, rotate and throw smooth.",
+    "avoid": "Rush sequence, arm-only, sloppy feet."
+   },
+   "youtube": "https://www.youtube.com/watch?v=Bj0fnnbKkFE",
+   "times_used_2025_26": 2,
+   "last_posted": null
+  },
+  {
+   "file": "mb-rdl-w-oh-slam.mp4",
+   "exercise": "MB RDL with OH Slam",
+   "equipment": "Medicine Ball",
+   "coaching": {
+    "purpose": "Hinge power into vertical slam.",
+    "feel": "Load hamstrings; snap up; slam from core.",
+    "avoid": "Rounding back, shoulder lift, soft slam."
+   },
+   "youtube": "https://www.youtube.com/watch?v=d65wNRCeN2E",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "mb-rotational-throw.mp4",
+   "exercise": "MB Rotational Throw",
+   "equipment": "Medicine Ball",
+   "coaching": {
+    "purpose": "Pure rotational power and timing.",
+    "feel": "Load rear hip; whip hips\u2192ribs\u2192arms; full release.",
+    "avoid": "Arm fling, no shift, off-balance finish."
+   },
+   "youtube": "https://www.youtube.com/watch?v=KKy0p7_wGkc",
+   "times_used_2025_26": 18,
+   "last_posted": "2026-11-12"
+  },
+  {
+   "file": "mb-russian-twists.mp4",
+   "exercise": "MB Russian Twists",
+   "equipment": "Medicine Ball",
+   "coaching": {
+    "purpose": "Obliques + rib control under load.",
+    "feel": "Tall; rotate ribs; light touches; breathe.",
+    "avoid": "Feet flail, lumbar twist, big arcs."
+   },
+   "youtube": "https://www.youtube.com/watch?v=6cdIjDSLwqU",
+   "times_used_2025_26": 24,
+   "last_posted": null
+  },
+  {
+   "file": "mb-sit-up.mp4",
+   "exercise": "MB Sit Up",
+   "equipment": "Medicine Ball",
+   "coaching": {
+    "purpose": "Anterior chain power/control.",
+    "feel": "Ribs down; smooth sit to tall; tap ball.",
+    "avoid": "Neck jerk, feet lift, wild throw."
+   },
+   "youtube": "https://www.youtube.com/watch?v=rHigPnmiiyA",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "mb-skater-hops.mp4",
+   "exercise": "MB Skater Hops",
+   "equipment": "Medicine Ball",
+   "coaching": {
+    "purpose": "Lateral elasticity with coordination.",
+    "feel": "Bound side to side; soft stick; ball under control.",
+    "avoid": "Wobbly knee, loud landings, ball flail."
+   },
+   "youtube": "https://www.youtube.com/watch?v=kQDxl5rjUy0",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "mb-split-stance-slam.mp4",
+   "exercise": "MB Split Stance Slam",
+   "equipment": "Medicine Ball",
+   "coaching": {
+    "purpose": "Rotational/vertical power with split-stance stability.",
+    "feel": "Hips lead; slam on front-foot line.",
+    "avoid": "Arm-only, drifting forward, knee cave."
+   },
+   "youtube": "https://www.youtube.com/watch?v=4EdWPBe8VNY",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "mb-supine-explosive-press.mp4",
+   "exercise": "MB Supine Explosive Press",
+   "equipment": "Medicine Ball",
+   "coaching": {
+    "purpose": "Upper-body power with scap control.",
+    "feel": "Elbows ~45\u00b0; pop the ball straight up.",
+    "avoid": "Elbows flare, low-back arch, slow tempo."
+   },
+   "youtube": "https://www.youtube.com/watch?v=ZZSpQdJHTSA",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "prone-w-press.mp4",
+   "exercise": "Prone W Press",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Mid-back activation for posture and scap control.",
+    "feel": "Forehead down; squeeze blades in a W; smooth breath.",
+    "avoid": "Neck crank, shrugging, rushing reps."
+   },
+   "youtube": "https://www.youtube.com/watch?v=zZ-iIYCi3sA",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "rebounding-slams.mp4",
+   "exercise": "Rebounding Slams",
+   "equipment": "Medicine Ball",
+   "coaching": {
+    "purpose": "Repeat power and rhythm via wall/bounce.",
+    "feel": "Explode; catch & cycle quickly with control.",
+    "avoid": "Soft effort, sloppy catches, rounded back."
+   },
+   "youtube": "https://www.youtube.com/watch?v=yi8JH2FOLTk",
+   "times_used_2025_26": 23,
+   "last_posted": null
+  },
+  {
+   "file": "runner-box-step-up-bw.mp4",
+   "exercise": "Runner Box Step Up BW",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Single-leg drive and balance like lead-leg posting.",
+    "feel": "Drive through foot; knee up; torso tall.",
+    "avoid": "Pushing off trail toe, arch collapse, slam down."
+   },
+   "youtube": "https://www.youtube.com/watch?v=71TLu9jRja8",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "seated-alt-oh-press.mp4",
+   "exercise": "Seated Alt  OH Press",
+   "equipment": "Dumbbell",
+   "coaching": {
+    "purpose": "Shoulder strength with trunk stiffness.",
+    "feel": "Feet planted; ribs down; alternate smooth lockouts.",
+    "avoid": "Lumbar arch, shrugging, rushing reps."
+   },
+   "youtube": "https://www.youtube.com/watch?v=ZDd4AgfPhNA",
+   "times_used_2025_26": 11,
+   "last_posted": null
+  },
+  {
+   "file": "side-plank-crunch.mp4",
+   "exercise": "Side Plank Crunch",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Lateral core strength + dynamic control.",
+    "feel": "Shoulder stacked; ribs down; smooth tuck.",
+    "avoid": "Rolling hips, neck strain, jerky reps."
+   },
+   "youtube": "https://www.youtube.com/watch?v=k2xJlzLCN8Q",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "sl-rdl-w-row.mp4",
+   "exercise": "SL RDL w/Row",
+   "equipment": "Resistance Band",
+   "coaching": {
+    "purpose": "Integrate hinge, balance, and scap strength for a steadier swing base.",
+    "feel": "Hips square; long spine; row to ribs as you hinge on stance leg.",
+    "avoid": "Pelvis rotation, arch collapse, shoulder shrug."
+   },
+   "youtube": "https://www.youtube.com/watch?v=aP3OauWSWnY",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "step-to-rotational-press.mp4",
+   "exercise": "Step to Rotational Press",
+   "equipment": "Medicine Ball",
+   "coaching": {
+    "purpose": "Link step/shift to cross-body power.",
+    "feel": "Step then rotate and press; finish tall.",
+    "avoid": "Arm-only push, knee cave, rib flare."
+   },
+   "youtube": "https://www.youtube.com/watch?v=sfm3PyxwWpo",
+   "times_used_2025_26": 0,
+   "last_posted": null
+  },
+  {
+   "file": "tall-kneel-wall-press.mp4",
+   "exercise": "Tall Kneel Wall Press",
+   "equipment": null,
+   "coaching": null,
+   "youtube": null,
+   "times_used_2025_26": null,
+   "last_posted": null
+  },
+  {
+   "file": "walking-lunge-bw.mp4",
+   "exercise": "Walking Lunge BW",
+   "equipment": "Bodyweight",
+   "coaching": {
+    "purpose": "Gait-pattern leg strength and balance for pressure shift.",
+    "feel": "Tall torso; knee tracks; push through whole foot.",
+    "avoid": "Short steps, knee cave, bouncing."
+   },
+   "youtube": "https://www.youtube.com/watch?v=g73XR9etACg",
+   "times_used_2025_26": 81,
+   "last_posted": null
+  }
+ ]
+}
