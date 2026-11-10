@@ -24,6 +24,7 @@ jobs:
       - run: pip install requests
       - env:
           META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          META_USER_TOKEN: ${{ secrets.META_USER_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           GRAPH_VERSION: ${{ vars.GRAPH_VERSION }}
         run: python publisher/audio_search.py ${{ inputs.query }}

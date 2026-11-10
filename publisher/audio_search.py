@@ -8,7 +8,7 @@ from pathlib import Path
 import requests
 
 GRAPH = f"https://graph.facebook.com/{os.getenv('GRAPH_VERSION') or 'v23.0'}"
-params = {"audio_type": "music", "user_id": os.environ["IG_USER_ID"], "access_token": os.environ["META_PAGE_TOKEN"]}
+params = {"audio_type": "music", "user_id": os.environ["IG_USER_ID"], "access_token": os.getenv("META_USER_TOKEN") or os.environ["META_PAGE_TOKEN"]}
 q = " ".join(sys.argv[1:]).strip()
 if q:
     params["search_query"] = q
@@ -18,7 +18,8 @@ out = Path(__file__).resolve().parent.parent / "audio"
 out.mkdir(exist_ok=True)
 name = "trending.json" if not q else "search-" + "-".join(q.lower().split())[:40] + ".json"
 keep = ("audio_id", "title", "display_artist", "duration_in_ms", "is_ads_eligible", "on_platform_audio_preview_link")
-result = {"searched_at": datetime.now(timezone.utc).isoformat(), "query": q or None}
+result = {"searched_at": datetime.now(timezone.utc).isoformat(), "query": q or None,
+          "token": "user" if os.getenv("META_USER_TOKEN") else "page"}
 if "error" in body:
     result["error"] = body["error"].get("message")
     print("✗", result["error"])
