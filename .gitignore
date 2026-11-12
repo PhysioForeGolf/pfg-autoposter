@@ -1,2 +1,6 @@
 __pycache__/
 .env
+
+# Songs stay off GitHub (repo is public; Pixabay license forbids sharing the raw files).
+# Source of truth: Mac > Desktop > Master Exercise List > Master PFG Audio
+audio/music/
