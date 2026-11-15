@@ -4,6 +4,8 @@
 Single clip:  post_reel.py OUT --clip master.mp4 --hook1 .. --hook2 .. --cues "A|B|C" --name ".." --theme power
 Montage:      post_reel.py OUT --clip a.mp4 --clip b.mp4 --clip c.mp4 --labels "1. A|2. B|3. C" --seg 5 ...
 Every post ends on a 2.2 s PFG logo end card with one call to action.
+--layout big (default since 2026-11-16): clip fills the full width, tighter header, cues shown as white
+step-label pills on the clip (e.g. "5 REPS: STEP + SWING"). --layout classic keeps the original framed look.
 """
 import argparse, json, subprocess
 from pathlib import Path
@@ -26,8 +28,12 @@ def dur(p):
                                 capture_output=True, text=True, check=True).stdout)
 
 
-def build(out, clips, hook1, hook2, cues, name, theme, cta, labels=None, seg=5.0, badge="DOCTOR OF PHYSICAL THERAPY  •  TPI CERTIFIED"):
+def build(out, clips, hook1, hook2, cues, name, theme, cta, labels=None, seg=5.0, badge="DOCTOR OF PHYSICAL THERAPY  •  TPI CERTIFIED", layout="big"):
     acc = THEMES[theme]
+    big = layout == "big"
+    BOX, BOX_Y = (1080, 560) if big else (960, 640)
+    hy = (150, 192, 236, 352, 100) if big else (190, 232, 290, 418, 108)  # name, badge, hook1, hook2, hook size
+    pill = "fontcolor=black:box=1:boxcolor=white@0.95" if big else "fontcolor=white:box=1:boxcolor=black@0.55"
     inputs, parts, total = [], [], 0.0
     montage = len(clips) > 1
     for i, c in enumerate(clips):
@@ -56,19 +62,19 @@ def build(out, clips, hook1, hook2, cues, name, theme, cta, labels=None, seg=5.0
                f"x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s={BOX}x{BOX}:fps={FPS}[fg];")
     draw = [
         f"drawbox=x={(W-BOX)//2}:y={BOX_Y + BOX}:w={BOX}:h=10:color={acc}:t=fill",
-        f"drawtext=fontfile='{B}':text='PHYSIO FORE GOLF':fontsize=34:fontcolor=white@0.9:x=(w-text_w)/2:y=190",
-        f"drawtext=fontfile='{SB}':text='{esc(badge)}':fontsize=26:fontcolor={acc}:x=(w-text_w)/2:y=232",
-        f"drawtext=fontfile='{XB}':text='{esc(hook1)}':fontsize=108:fontcolor=white:x=(w-text_w)/2:y=290",
-        f"drawtext=fontfile='{XB}':text='{esc(hook2)}':fontsize=108:fontcolor=black:box=1:boxcolor={acc}:"
-        f"boxborderw=16:x=(w-text_w)/2:y=418",
+        f"drawtext=fontfile='{B}':text='PHYSIO FORE GOLF':fontsize=34:fontcolor=white@0.9:x=(w-text_w)/2:y={hy[0]}",
+        f"drawtext=fontfile='{SB}':text='{esc(badge)}':fontsize=26:fontcolor={acc}:x=(w-text_w)/2:y={hy[1]}",
+        f"drawtext=fontfile='{XB}':text='{esc(hook1)}':fontsize={hy[4]}:fontcolor=white:x=(w-text_w)/2:y={hy[2]}",
+        f"drawtext=fontfile='{XB}':text='{esc(hook2)}':fontsize={hy[4]}:fontcolor=black:box=1:boxcolor={acc}:"
+        f"boxborderw=16:x=(w-text_w)/2:y={hy[3]}",
     ]
     if montage:
         for (i, t0, t1), lab in zip(parts, labels.split("|")):
             draw.append(f"drawtext=fontfile='{XB}':text='{esc(lab.upper())}':fontsize=54:fontcolor=black:box=1:"
-                        f"boxcolor={acc}:boxborderw=14:x=(w-text_w)/2:y={BOX_Y - 72}:enable='between(t,{t0:.2f},{t1:.2f})'")
+                        f"boxcolor={acc}:boxborderw=14:x=(w-text_w)/2:y={(BOX_Y + BOX - 150) if big else (BOX_Y - 72)}:enable='between(t,{t0:.2f},{t1:.2f})'")
         if cues:
-            draw.append(f"drawtext=fontfile='{XB}':text='{esc(cues.upper())}':fontsize=54:fontcolor=white:box=1:"
-                        f"boxcolor=black@0.55:boxborderw=16:x=(w-text_w)/2:y={BOX_Y + BOX - 110}")
+            draw.append(f"drawtext=fontfile='{XB}':text='{esc(cues.upper())}':fontsize={44 if big else 54}:fontcolor=white:box=1:"
+                        f"boxcolor=black@0.55:boxborderw=16:x=(w-text_w)/2:y={(BOX_Y - 66) if big else (BOX_Y + BOX - 110)}")
     else:
         draw.append(f"drawtext=fontfile='{B}':text='{esc(name.upper())}':fontsize=40:fontcolor=white@0.85:"
                     f"x=(w-text_w)/2:y={BOX_Y - 58}")
@@ -76,8 +82,8 @@ def build(out, clips, hook1, hook2, cues, name, theme, cta, labels=None, seg=5.0
         span = (total - 1.0) / max(len(cl), 1)
         for i, c in enumerate(cl):
             t0, t1 = 1.0 + i * span, 1.0 + (i + 1) * span
-            draw.append(f"drawtext=fontfile='{XB}':text='{esc(c.upper())}':fontsize=58:fontcolor=white:box=1:"
-                        f"boxcolor=black@0.55:boxborderw=18:x=(w-text_w)/2:y={BOX_Y + BOX - 120}:"
+            draw.append(f"drawtext=fontfile='{XB}':text='{esc(c.upper())}':fontsize={56 if big else 58}:{pill}:"
+                        f"boxborderw=18:x=(w-text_w)/2:y={BOX_Y + BOX - (150 if big else 120)}:"
                         f"alpha='if(lt(t,{t0}+0.25),(t-{t0})/0.25,1)':enable='between(t,{t0:.2f},{t1:.2f})'")
     fc += f"[bg][fg]overlay=(W-w)/2:{BOX_Y}," + ",".join(draw) + ",format=yuv420p,setsar=1[main];"
     li = n
@@ -105,5 +111,6 @@ if __name__ == "__main__":
     p.add_argument("--theme", default="rotation", choices=THEMES)
     p.add_argument("--cta", default="SAVE THIS FOR YOUR NEXT WORKOUT")
     p.add_argument("--badge", default="DOCTOR OF PHYSICAL THERAPY  •  TPI CERTIFIED")
+    p.add_argument("--layout", default="big", choices=["big", "classic"])
     a = p.parse_args()
-    print(build(a.out, a.clip, a.hook1, a.hook2, a.cues, a.name, a.theme, a.cta, a.labels, a.seg, a.badge))
+    print(build(a.out, a.clip, a.hook1, a.hook2, a.cues, a.name, a.theme, a.cta, a.labels, a.seg, a.badge, a.layout))
