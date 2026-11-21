@@ -16,5 +16,15 @@
     "facebook"
   ],
   "music": "Rotation-1",
-  "cover": "2026-11-16/sat-landmine-rotation-cover.jpg"
+  "cover": "2026-11-16/sat-landmine-rotation-cover.jpg",
+  "results": {
+    "instagram": {
+      "id": "17878918254582695",
+      "at": "2026-11-21T16:02:51.971952+00:00"
+    },
+    "facebook": {
+      "id": "4347728935447840",
+      "at": "2026-11-21T16:02:56.565916+00:00"
+    }
+  }
 }
