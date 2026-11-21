@@ -98,3 +98,20 @@ Supported post types: **image**, **reel** (IG Reel + FB video), **carousel** (2�
 All 218 PFG exercise videos as clean Reel masters: logo intro/outro trimmed, square crop that follows the athlete, H.264.
 `library/index.json` lists each clip with its exercise name, coaching notes and when it was last posted.
 Finished posts are rendered from these with `tools/post_reel.py` (hook, coaching cues, colour per topic, PFG logo end card) and saved to `media/<week>/`.
+
+## Content style rules (from Jim, Nov 2026)
+
+Jim's feedback: the feed looked like one template with new content spliced in. Keep the brand in a few constants and vary everything else.
+
+**Keep constant:** fonts (Barlow Condensed / Barlow), dark background with the yellow/green/theme accents, the PFG name on screen, plain-spoken evidence-based voice, caption structure (hook, ✅/❌ lines, one CTA, website line, 5–6 hashtags).
+
+**Rotate every week, never the same format two posts in a row:**
+- Reels: (a) clean clip: full-screen footage, one short line of text, no title block, no end card, loops; (b) step-label Reel (`post_reel.py --layout big`); (c) motion graphic (animated text/diagram, like the Nov 21 lifting-myth sample); (d) wrong vs right split screen; (e) POV / text-on-clip; (f) 3-clip montage. Use the logo end card on at most half the Reels.
+- Hooks: rotate question / bold claim / number / POV / short story. Lengths: mix 6–8 s loops with 15–30 s teaching Reels.
+- Carousels and the tip image: rotate photo-led, text-only "note" style, checklist, before/after. Not the same cover layout as the week before.
+- Timely angles when they fit (holidays, winter/indoor training, majors on TV).
+- No recordings from Jim/Ben yet (planned later). No AI-generated people.
+
+**Grid covers:** every Reel gets a `cover` image made with `tools/make_cover.py` (set `"cover": "<date>/<name>-cover.jpg"` in the post JSON). Rotate `--style photo|split|type` so neighbouring grid tiles differ. Without a cover the publisher uses a frame 1 s in (`thumb_offset`), never the logo end card.
+
+**What's working (views, week of Nov 9–20):** Reels 216–521 views; carousels 30–71; tip image 27. Lean on Reels; turn myth carousels into motion-graphic Reels.

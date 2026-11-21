@@ -133,12 +133,18 @@ def ig_wait_until_ready(container_id, timeout=300):
     raise PostError("Instagram media processing timed out")
 
 
-def ig_container(url, kind, caption=None, child=False, audio=None):
+def ig_container(url, kind, caption=None, child=False, audio=None, cover=None, thumb_offset=None):
     params = {}
     if kind == "video":
         params.update(media_type="REELS" if not child else "VIDEO", video_url=url)
         if not child:
             params["share_to_feed"] = "true"
+            # Grid cover: a custom image if the post has one, otherwise a frame 1 s in
+            # (left alone, Instagram often picks the logo end card, so the grid looks identical).
+            if cover:
+                params["cover_url"] = cover
+            else:
+                params["thumb_offset"] = str(thumb_offset if thumb_offset is not None else 1000)
             if audio:  # Instagram library music via the Instagram Audio API
                 params["audio_configuration"] = json.dumps({k: v for k, v in audio.items()
                                                             if k in ("audio_id", "audio_volume", "video_volume")})
@@ -163,7 +169,16 @@ def publish_instagram(post):
     if post["type"] == "image":
         cid = ig_container(media_url(post["media"]), "image", caption)
     elif post["type"] == "reel":
-        cid = ig_container(media_url(post["media"]), "video", caption, audio=post.get("audio"))
+        cover = media_url(post["cover"]) if post.get("cover") else None
+        try:
+            cid = ig_container(media_url(post["media"]), "video", caption, audio=post.get("audio"),
+                               cover=cover, thumb_offset=post.get("thumb_offset"))
+        except PostError as e:
+            if not cover:
+                raise
+            log(f"  cover image refused ({e}); posting with a frame cover instead")
+            cid = ig_container(media_url(post["media"]), "video", caption, audio=post.get("audio"),
+                               thumb_offset=post.get("thumb_offset"))
     else:  # carousel
         children = [ig_container(media_url(m), "video" if is_video(m) else "image", child=True)
                     for m in post["media"]]
