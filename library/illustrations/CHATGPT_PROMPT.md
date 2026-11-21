@@ -1,32 +1,85 @@
-# ChatGPT illustration prompt (Jim pastes this into ChatGPT)
+# ChatGPT image bank prompts (Jim pastes these into ChatGPT)
 
-Workflow: Jim pastes the prompt below into ChatGPT, downloads each image, uploads them to the Claude session.
-Claude checks them, saves them here as `library/illustrations/<name>.png`, lists them in `index.json`,
-and adds the labels/text in PFG fonts when using them in posts. Jim (DPT) approves anatomy before any image is used.
+Workflow: Jim pastes message 1 into ChatGPT, then each batch message in the same chat. He downloads the images and
+uploads them to a Claude session. Claude saves each one as `library/illustrations/<name>.png`, lists it in `index.json`
+(name, batch, what it shows, approved yes/no, last_posted), and adds all text/labels in PFG fonts when it's used.
+Jim (DPT) approves anatomy and swing positions before any image is used. Rejected images are not saved.
 
 ---
 
-You are making a set of anatomy and movement illustrations for Physio Fore Golf, a golf fitness and physical therapy brand run by a Doctor of Physical Therapy. The images go into Instagram Reels and carousels, where we add our own text on top.
+## Message 1: style + batch 1 (anatomy)
 
-STYLE (apply to every image so they look like one set):
+You are making a library of anatomy and movement illustrations for Physio Fore Golf, a golf fitness and physical therapy brand run by a Doctor of Physical Therapy. The images go into Instagram Reels and carousels, where we add our own text on top. We will make several batches in this chat. Use this style for EVERY image in every batch:
+
+STYLE
 - Clean, modern medical-illustration style. Flat shading with soft depth, not photorealistic, not cartoonish.
-- Solid near-black background, hex #111311. No gradients or textures in the background.
-- Bones in warm off-white (#ECECEC). Muscles, if shown, in muted red. Movement arrows in bright yellow (#F2C230), thick, curved, with clear arrowheads.
-- Subject centred with generous empty space around it (at least 15% margin on every side).
+- Solid near-black background, hex #111311, unless a batch says otherwise. No gradients or textures.
+- Bones warm off-white (#ECECEC). Muscles muted red. Human figures are smooth grey mannequins with no face, hair or clothing logos.
+- Arrows: yellow (#F2C230) for movement, green (#3FBF63) for "correct", red (#E0533D) for "wrong". Thick, curved, clear arrowheads.
+- Subject centred with at least 15% empty margin on every side.
 - Square, 1024 x 1024.
-- NO text, letters, numbers, labels or logos anywhere in the image. We add all labels ourselves.
+- NO text, letters, numbers, labels, logos or watermarks anywhere. We add all text ourselves.
 - Anatomically accurate. If unsure about a detail, keep it simpler rather than invent structure.
-- Same viewing style, line weight and colours across the whole set.
+- Keep viewing style, line weight and colours identical across the whole library.
 
-Make these images one at a time, in this order:
+After each image, tell me its name so I can save it with the right file name. Make them one at a time.
 
-1. hip-joint: Front view of the right hip joint (ball-and-socket: femoral head in the acetabulum of the pelvis). Two curved yellow arrows around the femoral head showing it can rotate inward and outward.
-2. hip-rotation-golf: A simple neutral figure (grey mannequin, no face) at the top of a golf backswing, seen from above-front. A yellow arrow around the trail hip showing the hip turning.
-3. spine-sections: Side view of the whole spine (neck, mid-back, low back) and pelvis. Mid-back (thoracic) section in off-white, low back (lumbar) section in slightly darker grey so the two regions are clearly different.
-4. thoracic-rotation: Top-down view of a ribcage and mid-back vertebra with a large yellow curved arrow showing the ribcage rotating.
-5. lumbar-limited: Top-down view of a lower-back vertebra with a small, short yellow arrow (showing the low back rotates only a little).
-6. kinematic-sequence: A grey mannequin in the downswing, side-on, with four small yellow arrows in order from the ground up: hips, ribcage, lead arm, club.
-7. shoulder-blade: Back view of the upper back showing both shoulder blades on the ribcage, with yellow arrows showing the shoulder blades squeezing together and down.
-8. glute-max: Back view of the pelvis and upper thighs with the gluteus maximus muscle in muted red on one side.
+BATCH 1: ANATOMY
+1. hip-joint: front view, right hip ball-and-socket (femoral head in the acetabulum). Two curved yellow arrows: inward and outward rotation.
+2. hip-internal-rotation: top-down view of the pelvis and right femur, yellow arrow showing the thigh rotating inward.
+3. spine-sections: side view of the whole spine and pelvis. Thoracic section off-white, lumbar section slightly darker grey.
+4. thoracic-rotation: top-down view of a ribcage and mid-back vertebra, large yellow curved arrow (rotates a lot).
+5. lumbar-limited: top-down view of a lower-back vertebra, small short yellow arrow (rotates only a little).
+6. shoulder-blade: back view of the upper back, both shoulder blades on the ribcage, yellow arrows squeezing them together and down.
+7. glute-max: back view of the pelvis and upper thighs, gluteus maximus in muted red on one side.
+8. core-obliques: front three-quarter torso with the obliques in muted red, yellow arrow showing trunk rotation.
+9. hamstrings: back view of the thigh with the hamstrings in muted red, from hip to just below the knee.
+10. ankle-joint: side view of the ankle and foot bones, yellow arrow showing the shin moving forward over the foot.
 
-After each image, tell me the image number and name so I can save it with the right file name.
+## Message 2: batch 2 (golf positions)
+
+Same style as before. BATCH 2: GOLF POSITIONS. One grey mannequin, right-handed golfer with a plain grey club, full body, side-on (down-the-line) view unless stated.
+1. pos-address: athletic address posture, neutral spine, slight knee bend.
+2. pos-top-backswing: top of the backswing, full shoulder turn, trail hip turned.
+3. pos-transition: start of the downswing, weight shifting to the lead side, hips starting to open.
+4. pos-impact: impact, hips open, lead leg braced.
+5. pos-finish: balanced full finish, chest facing the target.
+6. pos-address-face-on: address, viewed from the front (face-on).
+7. pos-top-face-on: top of the backswing, viewed face-on.
+8. pos-impact-face-on: impact, viewed face-on.
+
+## Message 3: batch 3 (wrong vs right)
+
+Same style. BATCH 3: COMMON FAULTS. Each image shows TWO grey mannequins side by side: LEFT = the fault with a red arrow showing the bad movement, RIGHT = the correct version with a green arrow. No text, no X or tick marks.
+1. fault-early-extension: hips thrusting toward the ball in the downswing vs hips staying back.
+2. fault-sway: hips sliding away from the target in the backswing vs turning in place.
+3. fault-reverse-spine: upper body leaning toward the target at the top vs a neutral tilt away from it.
+4. fault-arms-only: arms swinging with the chest still vs chest and hips turning.
+5. fault-c-posture: rounded upper back at address vs a long neutral spine.
+6. fault-chicken-wing: lead elbow bent and pulled in after impact vs lead arm extended.
+7. fault-lift-up: standing up out of posture through impact vs keeping posture.
+8. fault-knee-cave: trail knee collapsing inward in the backswing vs knee stable over the foot.
+
+## Message 4: batch 4 (problem areas)
+
+Same style. BATCH 4: COMMON GOLF PAIN AREAS. One grey mannequin in a golf address or swing pose with ONE area glowing a soft warm red. Calm, not graphic.
+1. area-low-back
+2. area-lead-hip
+3. area-lead-shoulder
+4. area-lead-elbow-outside
+5. area-trail-elbow-inside
+6. area-lead-wrist
+7. area-lead-knee
+8. area-neck
+
+## Message 5: batch 5 (cover art and backgrounds)
+
+Same style rules for colour and no text, but these are moody photo-style images, 1024 x 1536 (portrait), with the main subject in the lower half so we can put text in the top half.
+1. bg-tee-dusk: golf ball on a tee at dusk, very dark, shallow depth of field.
+2. bg-fairway-fog: empty fairway at dawn with low fog, dark and muted.
+3. bg-driver-closeup: driver head resting behind a ball on grass, dark background.
+4. bg-gym-dark: empty dark gym corner with a kettlebell and medicine ball on the floor.
+5. bg-kettlebell: one kettlebell on a dark floor, dramatic side light.
+6. bg-resistance-band: a coiled resistance band on a dark surface.
+7. bg-green-flag: putting green with the flag at sunset, dark tones.
+8. bg-golf-shoes: golf shoes and a towel on a locker-room bench, dark tones.
