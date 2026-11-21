@@ -1,15 +1,16 @@
 # ChatGPT image bank prompts (Jim pastes these into ChatGPT)
 
-Workflow: Jim pastes message 1 into ChatGPT, then each batch message in the same chat. He downloads the images and
-uploads them to a Claude session. Claude saves each one as `library/illustrations/<name>.png`, lists it in `index.json`
+Workflow: Jim pastes the single prompt below into ChatGPT (types "continue" if it pauses), then uploads the one
+zip file it produces to a Claude session. If ChatGPT can't make a zip, he saves the images to Photos and attaches them
+in bulk; Claude identifies each image by looking at it, so no names are needed. Claude saves each one as `library/illustrations/<name>.png`, lists it in `index.json`
 (name, batch, what it shows, approved yes/no, last_posted), and adds all text/labels in PFG fonts when it's used.
 Jim (DPT) approves anatomy and swing positions before any image is used. Rejected images are not saved.
 
 ---
 
-## Message 1: style + batch 1 (anatomy)
+## The prompt
 
-You are making a library of anatomy and movement illustrations for Physio Fore Golf, a golf fitness and physical therapy brand run by a Doctor of Physical Therapy. The images go into Instagram Reels and carousels, where we add our own text on top. We will make several batches in this chat. Use this style for EVERY image in every batch:
+You are making a library of anatomy and movement illustrations for Physio Fore Golf, a golf fitness and physical therapy brand run by a Doctor of Physical Therapy. The images go into Instagram Reels and carousels, where we add our own text on top. We will make 42 images in 5 batches. Use this style for EVERY image in every batch:
 
 STYLE
 - Clean, modern medical-illustration style. Flat shading with soft depth, not photorealistic, not cartoonish.
@@ -21,8 +22,6 @@ STYLE
 - NO text, letters, numbers, labels, logos or watermarks anywhere. We add all text ourselves.
 - Anatomically accurate. If unsure about a detail, keep it simpler rather than invent structure.
 - Keep viewing style, line weight and colours identical across the whole library.
-
-After each image, tell me its name so I can save it with the right file name. Make them one at a time.
 
 BATCH 1: ANATOMY
 1. hip-joint: front view, right hip ball-and-socket (femoral head in the acetabulum). Two curved yellow arrows: inward and outward rotation.
@@ -36,9 +35,7 @@ BATCH 1: ANATOMY
 9. hamstrings: back view of the thigh with the hamstrings in muted red, from hip to just below the knee.
 10. ankle-joint: side view of the ankle and foot bones, yellow arrow showing the shin moving forward over the foot.
 
-## Message 2: batch 2 (golf positions)
-
-Same style as before. BATCH 2: GOLF POSITIONS. One grey mannequin, right-handed golfer with a plain grey club, full body, side-on (down-the-line) view unless stated.
+BATCH 2: GOLF POSITIONS. One grey mannequin, right-handed golfer with a plain grey club, full body, side-on (down-the-line) view unless stated.
 1. pos-address: athletic address posture, neutral spine, slight knee bend.
 2. pos-top-backswing: top of the backswing, full shoulder turn, trail hip turned.
 3. pos-transition: start of the downswing, weight shifting to the lead side, hips starting to open.
@@ -48,9 +45,7 @@ Same style as before. BATCH 2: GOLF POSITIONS. One grey mannequin, right-handed 
 7. pos-top-face-on: top of the backswing, viewed face-on.
 8. pos-impact-face-on: impact, viewed face-on.
 
-## Message 3: batch 3 (wrong vs right)
-
-Same style. BATCH 3: COMMON FAULTS. Each image shows TWO grey mannequins side by side: LEFT = the fault with a red arrow showing the bad movement, RIGHT = the correct version with a green arrow. No text, no X or tick marks.
+BATCH 3: COMMON FAULTS. Each image shows TWO grey mannequins side by side: LEFT = the fault with a red arrow showing the bad movement, RIGHT = the correct version with a green arrow. No text, no X or tick marks.
 1. fault-early-extension: hips thrusting toward the ball in the downswing vs hips staying back.
 2. fault-sway: hips sliding away from the target in the backswing vs turning in place.
 3. fault-reverse-spine: upper body leaning toward the target at the top vs a neutral tilt away from it.
@@ -60,9 +55,7 @@ Same style. BATCH 3: COMMON FAULTS. Each image shows TWO grey mannequins side by
 7. fault-lift-up: standing up out of posture through impact vs keeping posture.
 8. fault-knee-cave: trail knee collapsing inward in the backswing vs knee stable over the foot.
 
-## Message 4: batch 4 (problem areas)
-
-Same style. BATCH 4: COMMON GOLF PAIN AREAS. One grey mannequin in a golf address or swing pose with ONE area glowing a soft warm red. Calm, not graphic.
+BATCH 4: COMMON GOLF PAIN AREAS. One grey mannequin in a golf address or swing pose with ONE area glowing a soft warm red. Calm, not graphic.
 1. area-low-back
 2. area-lead-hip
 3. area-lead-shoulder
@@ -72,9 +65,7 @@ Same style. BATCH 4: COMMON GOLF PAIN AREAS. One grey mannequin in a golf addres
 7. area-lead-knee
 8. area-neck
 
-## Message 5: batch 5 (cover art and backgrounds)
-
-Same style rules for colour and no text, but these are moody photo-style images, 1024 x 1536 (portrait), with the main subject in the lower half so we can put text in the top half.
+BATCH 5: COVER ART. Same colour and no-text rules, but these are moody photo-style images, 1024 x 1536 (portrait), with the main subject in the lower half so we can put text in the top half.
 1. bg-tee-dusk: golf ball on a tee at dusk, very dark, shallow depth of field.
 2. bg-fairway-fog: empty fairway at dawn with low fog, dark and muted.
 3. bg-driver-closeup: driver head resting behind a ball on grass, dark background.
@@ -83,3 +74,9 @@ Same style rules for colour and no text, but these are moody photo-style images,
 6. bg-resistance-band: a coiled resistance band on a dark surface.
 7. bg-green-flag: putting green with the flag at sunset, dark tones.
 8. bg-golf-shoes: golf shoes and a towel on a locker-room bench, dark tones.
+
+HOW TO WORK
+- Make all 42 images, one at a time, in the order listed. Do not ask me questions or wait for my approval between images. Just keep going.
+- Under each image, write only its name (for example: hip-joint).
+- If you hit a limit and have to stop, tell me which number you stopped at. When I say "continue", pick up from there.
+- When all 42 are done, put every image into ONE zip file, each saved as <name>.png, and give me the download link.
