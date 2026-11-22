@@ -1,0 +1,41 @@
+name: Pull Instagram insights
+
+on:
+  schedule:
+    - cron: "17 14 * * 0"   # Sundays ~9am Eastern, before the weekly content build
+  workflow_dispatch:
+
+concurrency:
+  group: publisher          # never overlap with a publish run's git push
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  insights:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Pull stats
+        env:
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          GRAPH_VERSION: ${{ vars.GRAPH_VERSION }}
+        run: python publisher/insights.py
+      - name: Save
+        if: always()
+        run: |
+          git config user.name "pfg-autoposter"
+          git config user.email "actions@users.noreply.github.com"
+          git add insights
+          if ! git diff --cached --quiet; then
+            git commit -m "Insights $(date -u +%Y-%m-%d)"
+            git pull --rebase
+            git push
+          fi

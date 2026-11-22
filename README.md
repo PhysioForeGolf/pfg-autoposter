@@ -114,6 +114,8 @@ Jim's feedback: the feed looked like one template with new content spliced in. K
 
 **Grid covers:** every Reel gets a `cover` image made with `tools/make_cover.py` (set `"cover": "<date>/<name>-cover.jpg"` in the post JSON). Rotate `--style photo|split|type` so neighbouring grid tiles differ. Without a cover the publisher uses a frame 1 s in (`thumb_offset`), never the logo end card.
 
+**Live stats:** `insights/latest.json` (pulled Sundays ~9am ET by the "Pull Instagram insights" workflow, or run it by hand). Read it at the start of every weekly build and use it to pick formats.
+
 **Insights, 30 days to Nov 22 (from Jim's dashboard):** 3,191 views, 1,303 viewers. Reels ~3K views (mostly non-followers) vs posts 171; interactions Reels 54 vs posts 1. 25 profile visits, 2 bio-link taps. Every Reel lands at 220–520 views (Instagram's test audience) and none broke out. Landmine Reel: **average watch time 2 s**, 0 follows. Top: turn-test fixes 522, turn test 462, turn from hips 425, arms stealing speed 397 (3 sends).
 
 **Per-Reel insights (Jim's screenshots, Nov 22):**
