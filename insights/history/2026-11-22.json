@@ -1,0 +1,280 @@
+{
+  "pulled_at": "2026-11-22T17:19:38.603915+00:00",
+  "account": {
+    "id": "17841464546567485",
+    "followers_count": 135,
+    "media_count": 51,
+    "username": "physioforegolf.pfg"
+  },
+  "posts": [
+    {
+      "post": "2026-11-09-1800-turn-test",
+      "type": "reel",
+      "music": null,
+      "publish_at": "2026-11-09T18:00:00-05:00",
+      "ig_id": "18028193882876533",
+      "metrics": {
+        "views": 462,
+        "reach": 386,
+        "likes": 7,
+        "comments": 0,
+        "shares": 1,
+        "saved": 0,
+        "total_interactions": 9,
+        "ig_reels_avg_watch_time": 4792,
+        "ig_reels_video_view_total_time": 1945766,
+        "reels_skip_rate": 75.4,
+        "avg_watch_seconds": 4.8
+      },
+      "unavailable": [
+        "follows",
+        "profile_visits"
+      ]
+    },
+    {
+      "post": "2026-11-10-0700-turn-fixes",
+      "type": "reel",
+      "music": null,
+      "publish_at": "2026-11-10T07:00:00-05:00",
+      "ig_id": "18145905793614453",
+      "metrics": {
+        "views": 522,
+        "reach": 417,
+        "likes": 4,
+        "comments": 1,
+        "shares": 2,
+        "saved": 1,
+        "total_interactions": 10,
+        "ig_reels_avg_watch_time": 12260,
+        "ig_reels_video_view_total_time": 5553947,
+        "reels_skip_rate": 74.3,
+        "avg_watch_seconds": 12.3
+      },
+      "unavailable": [
+        "follows",
+        "profile_visits"
+      ]
+    },
+    {
+      "post": "2026-11-12-0900-rotational-throw",
+      "type": "reel",
+      "music": "Power-1",
+      "publish_at": "2026-11-12T09:00:00-05:00",
+      "ig_id": "18086224100346817",
+      "metrics": {
+        "views": 397,
+        "reach": 334,
+        "likes": 3,
+        "comments": 0,
+        "shares": 3,
+        "saved": 0,
+        "total_interactions": 6,
+        "ig_reels_avg_watch_time": 3300,
+        "ig_reels_video_view_total_time": 1148409,
+        "reels_skip_rate": 73.5,
+        "avg_watch_seconds": 3.3
+      },
+      "unavailable": [
+        "follows",
+        "profile_visits"
+      ]
+    },
+    {
+      "post": "2026-11-13-1600-stretch-myth",
+      "type": "carousel",
+      "music": null,
+      "publish_at": "2026-11-13T16:00:00-05:00",
+      "ig_id": "18133396513809796",
+      "metrics": {
+        "views": 73,
+        "reach": 31,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 1,
+        "follows": 0,
+        "profile_visits": 0
+      },
+      "unavailable": []
+    },
+    {
+      "post": "2026-11-14-1100-rotational-chop",
+      "type": "reel",
+      "music": "Rotation-3",
+      "publish_at": "2026-11-14T11:00:00-05:00",
+      "ig_id": "18123652931315385",
+      "metrics": {
+        "views": 425,
+        "reach": 342,
+        "likes": 4,
+        "comments": 0,
+        "shares": 1,
+        "saved": 1,
+        "total_interactions": 7,
+        "ig_reels_avg_watch_time": 2895,
+        "ig_reels_video_view_total_time": 1103314,
+        "reels_skip_rate": 76.9,
+        "avg_watch_seconds": 2.9
+      },
+      "unavailable": [
+        "follows",
+        "profile_visits"
+      ]
+    },
+    {
+      "post": "2026-11-16-1800-hip-test",
+      "type": "reel",
+      "music": "Mobility-1",
+      "publish_at": "2026-11-16T18:00:00-05:00",
+      "ig_id": "18077738552602555",
+      "metrics": {
+        "views": 223,
+        "reach": 189,
+        "likes": 6,
+        "comments": 0,
+        "shares": 0,
+        "saved": 1,
+        "total_interactions": 9,
+        "ig_reels_avg_watch_time": 4161,
+        "ig_reels_video_view_total_time": 794801,
+        "reels_skip_rate": 75.8,
+        "avg_watch_seconds": 4.2
+      },
+      "unavailable": [
+        "follows",
+        "profile_visits"
+      ]
+    },
+    {
+      "post": "2026-11-17-0700-hip-fixes",
+      "type": "reel",
+      "music": "Mobility-2",
+      "publish_at": "2026-11-17T07:00:00-05:00",
+      "ig_id": "18131567146867904",
+      "metrics": {
+        "views": 332,
+        "reach": 288,
+        "likes": 4,
+        "comments": 0,
+        "shares": 1,
+        "saved": 1,
+        "total_interactions": 6,
+        "ig_reels_avg_watch_time": 3510,
+        "ig_reels_video_view_total_time": 1074172,
+        "reels_skip_rate": 78,
+        "avg_watch_seconds": 3.5
+      },
+      "unavailable": [
+        "follows",
+        "profile_visits"
+      ]
+    },
+    {
+      "post": "2026-11-18-1200-tip-both-directions",
+      "type": "image",
+      "music": null,
+      "publish_at": "2026-11-18T12:00:00-05:00",
+      "ig_id": "18121794040769160",
+      "metrics": {
+        "views": 29,
+        "reach": 19,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "follows": 0,
+        "profile_visits": 0
+      },
+      "unavailable": []
+    },
+    {
+      "post": "2026-11-19-0900-downswing-slam",
+      "type": "reel",
+      "music": "Power-2",
+      "publish_at": "2026-11-19T09:00:00-05:00",
+      "ig_id": "18388197751239184",
+      "metrics": {
+        "views": 381,
+        "reach": 329,
+        "likes": 3,
+        "comments": 0,
+        "shares": 1,
+        "saved": 1,
+        "total_interactions": 5,
+        "ig_reels_avg_watch_time": 3789,
+        "ig_reels_video_view_total_time": 1250522,
+        "reels_skip_rate": 68.7,
+        "avg_watch_seconds": 3.8
+      },
+      "unavailable": [
+        "follows",
+        "profile_visits"
+      ]
+    },
+    {
+      "post": "2026-11-20-1600-lifting-myth",
+      "type": "carousel",
+      "music": null,
+      "publish_at": "2026-11-20T16:00:00-05:00",
+      "ig_id": "18143077924620586",
+      "metrics": {
+        "views": 46,
+        "reach": 20,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "follows": 0,
+        "profile_visits": 1
+      },
+      "unavailable": []
+    },
+    {
+      "post": "2026-11-21-1100-landmine-rotation",
+      "type": "reel",
+      "music": "Rotation-1",
+      "publish_at": "2026-11-21T11:00:00-05:00",
+      "ig_id": "17878918254582695",
+      "metrics": {
+        "views": 290,
+        "reach": 257,
+        "likes": 4,
+        "comments": 0,
+        "shares": 1,
+        "saved": 1,
+        "total_interactions": 6,
+        "ig_reels_avg_watch_time": 3006,
+        "ig_reels_video_view_total_time": 787624,
+        "reels_skip_rate": 79.6,
+        "avg_watch_seconds": 3.0
+      },
+      "unavailable": [
+        "follows",
+        "profile_visits"
+      ]
+    },
+    {
+      "post": "2026-11-22-1000-stiff-back-reset",
+      "type": "carousel",
+      "music": null,
+      "publish_at": "2026-11-22T10:00:00-05:00",
+      "ig_id": "18048949700839080",
+      "metrics": {
+        "views": 20,
+        "reach": 3,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saved": 0,
+        "total_interactions": 0,
+        "follows": 0,
+        "profile_visits": 0
+      },
+      "unavailable": []
+    }
+  ],
+  "problems": []
+}
