@@ -114,4 +114,14 @@ Jim's feedback: the feed looked like one template with new content spliced in. K
 
 **Grid covers:** every Reel gets a `cover` image made with `tools/make_cover.py` (set `"cover": "<date>/<name>-cover.jpg"` in the post JSON). Rotate `--style photo|split|type` so neighbouring grid tiles differ. Without a cover the publisher uses a frame 1 s in (`thumb_offset`), never the logo end card.
 
+**Insights, 30 days to Nov 22 (from Jim's dashboard):** 3,191 views, 1,303 viewers. Reels ~3K views (mostly non-followers) vs posts 171; interactions Reels 54 vs posts 1. 25 profile visits, 2 bio-link taps. Every Reel lands at 220–520 views (Instagram's test audience) and none broke out. Landmine Reel: **average watch time 2 s**, 0 follows. Top: turn-test fixes 522, turn test 462, turn from hips 425, arms stealing speed 397 (3 sends).
+
+**Watch-time rules (the #1 fix):** people decide in the first 1–2 s.
+- Frame 1 is the movement, full screen, already in motion. No branded header, badge or title card at the start; the PFG name can sit small at the bottom.
+- The hook is 3–7 words burned onto the footage, a curiosity gap or call-out ("This is why your back hurts after golf", "Your hips are why you slice"), visible from frame 1.
+- Trim clips so action starts at 0.0 s (library masters often open at rest). Prefer 7–12 s Reels that loop; teaching Reels max ~20 s.
+- Change something on screen every 1.5–2 s (cut, zoom, new label).
+- End card on at most half the Reels; when used, keep it under 1.5 s.
+- Mix: at least 5 Reels a week; the Wednesday tip becomes a short Reel; keep at most 1–2 carousels.
+
 **What's working (views, week of Nov 9–20):** Reels 216–521 views; carousels 30–71; tip image 27. Lean on Reels; turn myth carousels into motion-graphic Reels.
