@@ -1,0 +1,33 @@
+{
+ "out": "media/2026-11-23/tue-ankle-fixes-silent.mp4",
+ "theme": "mobility",
+ "segments": [
+  {
+   "clip": "library/bw-seated-ankle-floss.mp4",
+   "start": 1.0,
+   "dur": 4.5,
+   "zoom": 1500,
+   "cx": 0.42
+  },
+  {
+   "clip": "library/fr-calf.mp4",
+   "start": 2.0,
+   "dur": 4.5,
+   "zoom": 1250,
+   "cx": 0.5
+  },
+  {
+   "clip": "library/bw-calf-raise-wclub.mp4",
+   "start": 0.8,
+   "dur": 4.5,
+   "zoom": 1920,
+   "cx": 0.5
+  }
+ ],
+ "html": "<div class='a xb hook shadow' data-t0='0' data-t1='13.5' data-in='none' data-out='none' style=''>Failed the<br><span class='hl'>ankle test?</span></div><div class='a count' data-t0='0' data-t1='4.5' data-in='none' data-out='fade' style='top:1080px'>1/3</div><div class='a count' data-t0='4.5' data-t1='9.0' data-in='pop' data-out='fade' style='top:1080px'>2/3</div><div class='a count' data-t0='9.0' data-t1='13.5' data-in='pop' data-out='fade' style='top:1080px'>3/3</div><div class='a pill ' data-t0='0' data-t1='4.5' data-in='none' data-out='fade' style='top:1230px'><span>Seated ankle circles</span></div><div class='a pill dark' data-t0='1.8' data-t1='4.5' data-in='pop' data-out='fade' style='top:1330px'><span>Heel down, slow circles</span></div><div class='a pill ' data-t0='4.5' data-t1='9.0' data-in='pop' data-out='fade' style='top:1230px'><span>Foam roll calves</span></div><div class='a pill dark' data-t0='6.3' data-t1='9.0' data-in='pop' data-out='fade' style='top:1330px'><span>Pause on tight spots</span></div><div class='a pill ' data-t0='9.0' data-t1='13.5' data-in='pop' data-out='fade' style='top:1230px'><span>Calf raise + pause</span></div><div class='a pill dark' data-t0='10.8' data-t1='13.5' data-in='pop' data-out='fade' style='top:1330px'><span>Big toe pressure, 2 s hold</span></div>",
+ "css": "\n.hook{left:60px;right:60px;top:250px;text-align:center;font-size:104px}\n.hook2{left:60px;right:60px;text-align:center;font-size:96px}\n.kick{left:0;right:0;text-align:center;font-family:CB;font-size:44px;letter-spacing:8px;color:var(--acc)}\n.pill{left:0;right:0;text-align:center}\n.pill span{display:inline-block;font-family:XB;text-transform:uppercase;font-size:64px;padding:10px 26px;background:#fff;color:#000;line-height:1.05}\n.pill.acc span{background:var(--acc)}\n.pill.dark span{background:rgba(0,0,0,.72);color:#fff}\n.count{left:60px;top:250px;font-family:XB;font-size:120px;color:#000;background:var(--acc);padding:0 22px;line-height:1.05}\n.shade{inset:0;background:rgba(10,12,10,.62)}\n.bar{left:0;top:0;height:12px;background:var(--acc)}\n",
+ "end": {
+  "dur": 1.2,
+  "cta": "Save this for tonight"
+ }
+}

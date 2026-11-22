@@ -1,0 +1,26 @@
+{
+ "out": "media/2026-11-23/thu-lateral-bound-silent.mp4",
+ "theme": "power",
+ "segments": [
+  {
+   "clip": "library/bw-lateral-bound-to-stick.mp4",
+   "start": 1.0,
+   "dur": 5.5,
+   "zoom": 1450,
+   "cx": 0.52
+  },
+  {
+   "clip": "library/bw-lateral-bound-to-stick.mp4",
+   "start": 6.5,
+   "dur": 5.3,
+   "zoom": 1300,
+   "cx": 0.45
+  }
+ ],
+ "html": "<div class='a xb hook shadow' data-t0='0' data-t1='10.8' data-in='none' data-out='none' style=''>Speed starts<br><span class='hl'>in the ground</span></div><div class='a pill ' data-t0='0.9' data-t1='3.0' data-in='pop' data-out='fade' style='top:1230px'><span>Push off hard, land soft</span></div><div class='a pill ' data-t0='3.0' data-t1='5.2' data-in='pop' data-out='fade' style='top:1230px'><span>Stick it for 2 seconds</span></div><div class='a pill ' data-t0='5.2' data-t1='7.4' data-in='pop' data-out='fade' style='top:1230px'><span>Torso quiet, knee over toes</span></div><div class='a pill acc' data-t0='7.4' data-t1='10.8' data-in='pop' data-out='fade' style='top:1230px'><span>3 x 5 each way</span></div>",
+ "css": "\n.hook{left:60px;right:60px;top:250px;text-align:center;font-size:104px}\n.hook2{left:60px;right:60px;text-align:center;font-size:96px}\n.kick{left:0;right:0;text-align:center;font-family:CB;font-size:44px;letter-spacing:8px;color:var(--acc)}\n.pill{left:0;right:0;text-align:center}\n.pill span{display:inline-block;font-family:XB;text-transform:uppercase;font-size:64px;padding:10px 26px;background:#fff;color:#000;line-height:1.05}\n.pill.acc span{background:var(--acc)}\n.pill.dark span{background:rgba(0,0,0,.72);color:#fff}\n.count{left:60px;top:250px;font-family:XB;font-size:120px;color:#000;background:var(--acc);padding:0 22px;line-height:1.05}\n.shade{inset:0;background:rgba(10,12,10,.62)}\n.bar{left:0;top:0;height:12px;background:var(--acc)}\n",
+ "end": {
+  "dur": 1.2,
+  "cta": "Send this to your golf buddy"
+ }
+}

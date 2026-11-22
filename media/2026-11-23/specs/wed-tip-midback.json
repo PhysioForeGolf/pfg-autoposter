@@ -1,0 +1,15 @@
+{
+ "out": "media/2026-11-23/wed-tip-midback-silent.mp4",
+ "theme": "rotation",
+ "segments": [
+  {
+   "clip": "library/bw-kneeling-rotation.mp4",
+   "start": 2.0,
+   "dur": 8.0,
+   "zoom": 1300,
+   "cx": 0.5
+  }
+ ],
+ "html": "<div class='a kick' data-t0='0' data-t1='8' data-in='none' data-out='none' style='top:230px'>TIP OF THE WEEK</div><div class='a xb hook shadow' data-t0='0' data-t1='8' data-in='none' data-out='none' style='top:300px;font-size:96px'>Turn your <span class='hl'>mid-back</span>,<br>not your low back</div>",
+ "css": "\n.hook{left:60px;right:60px;top:250px;text-align:center;font-size:104px}\n.hook2{left:60px;right:60px;text-align:center;font-size:96px}\n.kick{left:0;right:0;text-align:center;font-family:CB;font-size:44px;letter-spacing:8px;color:var(--acc)}\n.pill{left:0;right:0;text-align:center}\n.pill span{display:inline-block;font-family:XB;text-transform:uppercase;font-size:64px;padding:10px 26px;background:#fff;color:#000;line-height:1.05}\n.pill.acc span{background:var(--acc)}\n.pill.dark span{background:rgba(0,0,0,.72);color:#fff}\n.count{left:60px;top:250px;font-family:XB;font-size:120px;color:#000;background:var(--acc);padding:0 22px;line-height:1.05}\n.shade{inset:0;background:rgba(10,12,10,.62)}\n.bar{left:0;top:0;height:12px;background:var(--acc)}\n"
+}

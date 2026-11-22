@@ -97,6 +97,7 @@ Supported post types: **image**, **reel** (IG Reel + FB video), **carousel** (2â
 
 All 218 PFG exercise videos as clean Reel masters: logo intro/outro trimmed, square crop that follows the athlete, H.264.
 `library/index.json` lists each clip with its exercise name, coaching notes and when it was last posted.
+Full-screen Reels that follow the watch-time rules (movement + hook from frame 1, no header, optional end card under 1.5 s) are rendered with `tools/overlay_reel.py SPEC.json` (animated HTML text over the footage; see `media/2026-11-23/specs/` for examples of every format).
 Finished posts are rendered from these with `tools/post_reel.py` (hook, coaching cues, colour per topic, PFG logo end card) and saved to `media/<week>/`.
 
 ## Content style rules (from Jim, Nov 2026)

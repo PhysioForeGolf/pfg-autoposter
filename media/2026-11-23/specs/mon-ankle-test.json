@@ -1,0 +1,36 @@
+{
+ "out": "media/2026-11-23/mon-ankle-test-silent.mp4",
+ "theme": "mobility",
+ "segments": [
+  {
+   "clip": "library/bw-dorsiflexion-lunge.mp4",
+   "start": 1.5,
+   "dur": 3.0,
+   "zoom": 1920,
+   "cx": 0.5
+  },
+  {
+   "clip": "library/bw-dorsiflexion-lunge.mp4",
+   "start": 4.5,
+   "dur": 3.0,
+   "zoom": 2300,
+   "cx": 0.56
+  },
+  {
+   "clip": "library/bw-dorsiflexion-lunge.mp4",
+   "start": 7.5,
+   "dur": 3.0,
+   "zoom": 1920,
+   "cx": 0.5
+  },
+  {
+   "clip": "library/bw-dorsiflexion-lunge.mp4",
+   "start": 10.5,
+   "dur": 3.0,
+   "zoom": 2300,
+   "cx": 0.56
+  }
+ ],
+ "html": "<div class='a xb hook shadow' data-t0='0' data-t1='12' data-in='none' data-out='none' style=''>Can your knee<br><span class='hl'>touch the wall?</span></div><div class='a pill ' data-t0='1.6' data-t1='4.2' data-in='pop' data-out='fade' style='top:1230px'><span>Half-kneel facing a wall</span></div><div class='a pill ' data-t0='4.2' data-t1='6.8' data-in='pop' data-out='fade' style='top:1230px'><span>Front toes 4 in / 10 cm away</span></div><div class='a pill ' data-t0='6.8' data-t1='9.4' data-in='pop' data-out='fade' style='top:1230px'><span>Knee to wall. Heel stays down</span></div><div class='a pill acc' data-t0='9.4' data-t1='12.0' data-in='pop' data-out='fade' style='top:1230px'><span>Which side is tighter: L or R?</span></div>",
+ "css": "\n.hook{left:60px;right:60px;top:250px;text-align:center;font-size:104px}\n.hook2{left:60px;right:60px;text-align:center;font-size:96px}\n.kick{left:0;right:0;text-align:center;font-family:CB;font-size:44px;letter-spacing:8px;color:var(--acc)}\n.pill{left:0;right:0;text-align:center}\n.pill span{display:inline-block;font-family:XB;text-transform:uppercase;font-size:64px;padding:10px 26px;background:#fff;color:#000;line-height:1.05}\n.pill.acc span{background:var(--acc)}\n.pill.dark span{background:rgba(0,0,0,.72);color:#fff}\n.count{left:60px;top:250px;font-family:XB;font-size:120px;color:#000;background:var(--acc);padding:0 22px;line-height:1.05}\n.shade{inset:0;background:rgba(10,12,10,.62)}\n.bar{left:0;top:0;height:12px;background:var(--acc)}\n"
+}

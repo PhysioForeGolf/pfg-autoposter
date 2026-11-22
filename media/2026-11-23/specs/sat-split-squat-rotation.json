@@ -1,0 +1,26 @@
+{
+ "out": "media/2026-11-23/sat-split-squat-rotation-silent.mp4",
+ "theme": "rotation",
+ "segments": [
+  {
+   "clip": "library/mb-bulgarian-split-squat-with-torso-rotation.mp4",
+   "start": 6.0,
+   "dur": 4.5,
+   "zoom": 1920,
+   "cx": 0.5
+  },
+  {
+   "clip": "library/mb-bulgarian-split-squat-with-torso-rotation.mp4",
+   "start": 10.5,
+   "dur": 4.5,
+   "zoom": 2250,
+   "cx": 0.5
+  }
+ ],
+ "html": "<div class='a xb hook shadow' data-t0='0' data-t1='9.0' data-in='none' data-out='none' style='font-size:92px'>POV: your lead leg<br><span class='hl'>finally holds the turn</span></div><div class='a pill ' data-t0='1.0' data-t1='3.0' data-in='pop' data-out='fade' style='top:1230px'><span>Drop straight down</span></div><div class='a pill ' data-t0='3.0' data-t1='5.0' data-in='pop' data-out='fade' style='top:1230px'><span>Turn over the front hip</span></div><div class='a pill ' data-t0='5.0' data-t1='7.0' data-in='pop' data-out='fade' style='top:1230px'><span>Chest tall, no wobble</span></div><div class='a pill acc' data-t0='7.0' data-t1='9.0' data-in='pop' data-out='fade' style='top:1230px'><span>3 x 6 each leg</span></div>",
+ "css": "\n.hook{left:60px;right:60px;top:250px;text-align:center;font-size:104px}\n.hook2{left:60px;right:60px;text-align:center;font-size:96px}\n.kick{left:0;right:0;text-align:center;font-family:CB;font-size:44px;letter-spacing:8px;color:var(--acc)}\n.pill{left:0;right:0;text-align:center}\n.pill span{display:inline-block;font-family:XB;text-transform:uppercase;font-size:64px;padding:10px 26px;background:#fff;color:#000;line-height:1.05}\n.pill.acc span{background:var(--acc)}\n.pill.dark span{background:rgba(0,0,0,.72);color:#fff}\n.count{left:60px;top:250px;font-family:XB;font-size:120px;color:#000;background:var(--acc);padding:0 22px;line-height:1.05}\n.shade{inset:0;background:rgba(10,12,10,.62)}\n.bar{left:0;top:0;height:12px;background:var(--acc)}\n",
+ "end": {
+  "dur": 1.4,
+  "cta": "PFG On Demand"
+ }
+}
