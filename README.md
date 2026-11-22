@@ -116,6 +116,20 @@ Jim's feedback: the feed looked like one template with new content spliced in. K
 
 **Insights, 30 days to Nov 22 (from Jim's dashboard):** 3,191 views, 1,303 viewers. Reels ~3K views (mostly non-followers) vs posts 171; interactions Reels 54 vs posts 1. 25 profile visits, 2 bio-link taps. Every Reel lands at 220–520 views (Instagram's test audience) and none broke out. Landmine Reel: **average watch time 2 s**, 0 follows. Top: turn-test fixes 522, turn test 462, turn from hips 425, arms stealing speed 397 (3 sends).
 
+**Per-Reel insights (Jim's screenshots, Nov 22):**
+| Reel | Views | Avg watch | Skip rate | Follows | Notes |
+|---|---|---|---|---|---|
+| Failed the turn test? Do these 3 (montage) | 522 | **12 s** | 74% | 0 | best hold once past the hook; 1 comment, 2 reposts, 2 sends |
+| Can you pass this turn test? (home, seated) | 462 | 4 s | 75% | 1 | best like rate 1.8% |
+| Turn from your hips (KB chop) | 425 | 2 s | 77% | 0 | |
+| Your arms are stealing your speed (MB throw) | 397 | 3 s | 74% | 1 | best share rate 0.9% |
+| Train your downswing speed (MB slam) | 381 | 3 s | 69% | **3** | lowest skip, most follows |
+| Build a stronger turn (landmine) | 273 | 2 s | n/a | 0 | |
+Views come mostly from **Stories (56–69%)**, then Reels tab (14–29%), Explore only 3–5%: reach is mostly people seeing reshares in Stories, not the algorithm yet.
+Takeaways: skip rate ~70–77% everywhere = the opening is the problem. Speed/power drills earn follows and shares; numbered "do these 3" montages hold attention longest. Goal: skip rate under 60%, then work on Reels-tab/Explore reach.
+- Favour speed/power drills and numbered "3 moves" montages (show "1/3" on screen from frame 1 so people stay for 2 and 3).
+- Comment CTAs must be easy one-word answers (e.g. "Which side is tighter: L or R?").
+
 **Watch-time rules (the #1 fix):** people decide in the first 1–2 s.
 - Frame 1 is the movement, full screen, already in motion. No branded header, badge or title card at the start; the PFG name can sit small at the bottom.
 - The hook is 3–7 words burned onto the footage, a curiosity gap or call-out ("This is why your back hurts after golf", "Your hips are why you slice"), visible from frame 1.
