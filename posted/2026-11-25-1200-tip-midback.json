@@ -16,5 +16,15 @@
     "facebook"
   ],
   "music": "Rotation-3",
-  "cover": "2026-11-23/wed-tip-midback-cover.jpg"
+  "cover": "2026-11-23/wed-tip-midback-cover.jpg",
+  "results": {
+    "instagram": {
+      "id": "18481550293136787",
+      "at": "2026-11-25T17:02:52.064208+00:00"
+    },
+    "facebook": {
+      "id": "942101592182696",
+      "at": "2026-11-25T17:02:56.529446+00:00"
+    }
+  }
 }
