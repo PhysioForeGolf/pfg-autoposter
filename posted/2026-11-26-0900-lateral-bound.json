@@ -16,5 +16,15 @@
     "facebook"
   ],
   "music": "Power-1",
-  "cover": "2026-11-23/thu-lateral-bound-cover.jpg"
+  "cover": "2026-11-23/thu-lateral-bound-cover.jpg",
+  "results": {
+    "instagram": {
+      "id": "18139572536497056",
+      "at": "2026-11-26T14:03:05.502452+00:00"
+    },
+    "facebook": {
+      "id": "29522593900759444",
+      "at": "2026-11-26T14:03:10.037904+00:00"
+    }
+  }
 }
