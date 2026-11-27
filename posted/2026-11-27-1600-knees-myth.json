@@ -16,5 +16,15 @@
     "facebook"
   ],
   "music": "Calm-1",
-  "cover": "2026-11-23/fri-knees-myth-cover.jpg"
+  "cover": "2026-11-23/fri-knees-myth-cover.jpg",
+  "results": {
+    "instagram": {
+      "id": "18129933914312009",
+      "at": "2026-11-27T21:02:50.661409+00:00"
+    },
+    "facebook": {
+      "id": "2625909471220747",
+      "at": "2026-11-27T21:02:54.524913+00:00"
+    }
+  }
 }
